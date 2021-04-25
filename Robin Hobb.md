@@ -1,0 +1,7 @@
+For the Folio Society
+
+‘Books are treasures,’ says Hobb. ‘I have a dragon’s hoard of them. Family fortunes may rise and fall, but when books are cherished and passed down, there is a legacy that remains intact. The Folio collector is not just buying a book; they are curating stories that are significant to them, and important enough to possess in a lovely format. Folio books are not life-time books; they are generational. Their production quality ensures that a buyer can expect their grandchildren to enjoy the same volume. In a time when paperback bindings give way, and e-books are more “rented” than owned, a Folio published volume is a way to enjoy and pass on a significant book.’
+
+And Folio books have a unique knack of taking readers deeper into the world of fantasy. ‘I have always admired the opening scenes of Disney’s Snow White animation, which begins with someone opening an opulently bejewelled book,’ says Hobb. ‘In that moment, the viewer knows they are going to experience a fantastic tale. And if you are in a library, idly perusing the stacks, the eye will always be drawn to the book with the ribbed back of worn leather. Draw it out from its fellows and it will have a heft that other volumes lack. Will there be marbled end papers? An unusual font? A map? A frontispiece?’
+
+**

@@ -1,0 +1,1 @@
+For all it brightens, love casts long shadows

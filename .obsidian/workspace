@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "03cabf3622317930",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85807317aed1dec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Gifts of Imperfection.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee187e11f14a3368",
+    "type": "split",
+    "children": [
+      {
+        "id": "543bfd1855cf7696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be4255be3bf033b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d632a219b106e1ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#multiplicity",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfa8bf37feff88c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "80dca009af409cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c04dbb287e752ada",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Gifts of Imperfection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b85807317aed1dec",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "The Witcher.md",
+    "Bad Pharma.md",
+    "On Friendship.md",
+    "Robin Hobb.md",
+    "Ways of Worldmaking.md",
+    "README.md",
+    "Station Eleven.md",
+    "Carpe Jugulum.md",
+    "Ships of Heaven.md"
+  ]
+}

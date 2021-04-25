@@ -1,0 +1,12 @@
+#kyle-bravo
+#microcosm
+
+**As I moved into early adulthood I was desperately seeking information and knowledge about other ways to live my life, to forge a path that was more authentically my own, making more intentional decisions about my day-to-day  actions so that they more closely aligned with the ever-evolving ideals that were forming in my head and my heart. I sought out and soaked up everything I could, trying to learn how to make my life into what I wanted it to be. When I discovered the hidden yet vast subculture of self-publishing and zines, I became obsessed, reading and collecting every zine I could get my hands on, looking for whatever little kernels of wisdom there might be in those scrawled and photocopied pages. 
+
+  
+
+If all of us demand control over what we do and what goes on around us, if all of us do what we can to make life exciting and fair for everyone, things are bound to change. A lot of people know we don’t live in the best of all possible worlds, but persuade themselves that it’s hopeless to try to improve things because they’re afraid to commit themselves, to take any risks. But it’s that lack of ambition that is the biggest risk of all - for what if you do nothing, and nothing happens, and we lose our chance to make this world the paradise it should be? Don’t be shy or timid - there’s nothing more exciting than taking an active role in the world around you, and there’s nothing more worthwhile. (CrimethInc)
+
+  
+
+In America we are only expected to dedicate 13 years to education, perhaps with an additional 2-8 years for the particularly (and typically) ambitious and privileged. After that we are supposed to have all the knowledge we need, at which point we kick into production mode of working to pay the bills. Not only is the idea that we have all the knowledge we need in this comparatively short period of time illogical considering the constant change and progress of the world around us, but it keeps us bound in production mode. The fact is, while the world is constantly changing, so are the people. They need more information not only to function in their jobs, but to satisfy the self - the part of us that is constantly changing, growing, evolving. \[...\] It seems that the popular view point is that if learning isn’t rewarded with a degree or a promotion, then it holds no value.**
