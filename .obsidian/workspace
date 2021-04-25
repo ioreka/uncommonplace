@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Gifts of Imperfection.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Gifts of Imperfection.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "README.md",
     "Untitled.md",
     "The Witcher.md",
     "Bad Pharma.md",
     "On Friendship.md",
     "Robin Hobb.md",
     "Ways of Worldmaking.md",
-    "README.md",
     "Station Eleven.md",
     "Carpe Jugulum.md",
     "Ships of Heaven.md"
