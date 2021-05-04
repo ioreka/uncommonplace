@@ -1,0 +1,1 @@
+Like any discourse, the cybernetic hypothesis could only check to verify itself by associating the beings or ideas that reinforce it, by testing itself through contact with them, and folding the world into its laws in a continual self-validation process.

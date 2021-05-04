@@ -1,0 +1,11 @@
+#pema-chodron
+
+Why do we resist our energy? Why do we resist the life force that flows through us? The first noble truth says that if you are alive, if you have a heart, if you can love, if you can be compassionate, if you can realize the life energy that makes everything change and move and grow and die, then you won't have any resentment or resistance. The first noble truth says simply that it's part of being human to feel discomfort. We don't even have to call it suffering anymore, we don't even have to call it discomfort. It's simply coming to know the fieriness of fire, the wildness of wind, the turbulence of water, the upheaval of earth, as well as the warmth of fire, the coolness and smoothness of water, the gentleness of the breezes, and the goodness, solidness, and dependability of the earth. Nothing in its essence is one way or the other. The four elements take on different qualities; they're like magicians. Sometimes they manifest in one form and sometimes in another. If we feel that that's a problem, we resist it. The first noble truth recognizes that we also change like the weather, we ebb and flow like the tides, we wax and wane like the moon. We do that, and there's no reason to resist it. If we resist it, the reality and vitality of life become misery, a hell.
+
+  
+
+The wilder the weather is, the more the ravens love it. They have the time of theirs lives in the winter, when the wind gets much stronger and there’s lots of ice and snow. They challenge the wind. they get up on the tops of trees and they hold on with their claws and then they grab on with their beaks as well. At some point they just let go into the wind and let it blow them away. Then they play on it, they float on it. After a while, they’ll go back to the tree and start over. It’s a game. Once, I saw saw them in an incredible hurricane-velocity wind, grabbing each other’s feet and dropping and then letting go and flying out. It was a circus act.
+
+  
+
+“Wholeheartedness is a precious gift, but no one can actually give it to you. You have to find the path that has heart and then walk it impeccably....It's like someone laughing in your ear, challenging you to figure out what to do when you don't know what to do. It humbles you. It opens your heart. ”

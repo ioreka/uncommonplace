@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 3.md",
+            "file": "Individuals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Individuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled 4.md",
     "Individuals.md",
-    "Inspired, How to create tech products customers love.md",
-    "Einstein.md",
-    "Philip Pullman.md",
-    "Practical Guide to Information Architecture.md"
+    "Untitled 1.md",
+    "A Scanner Darkly.md",
+    "Untitled.md",
+    "The Two Towers.md",
+    "Babel-17.md",
+    "Dune.md",
+    "Wyrd Sisters.md",
+    "The Prince.md",
+    "Cloud Atlas.md"
   ]
 }
