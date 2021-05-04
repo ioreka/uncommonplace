@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Untitled 3.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#multiplicity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Untitled.md",
-    "The Witcher.md",
-    "Bad Pharma.md",
-    "On Friendship.md",
-    "Robin Hobb.md",
-    "Ways of Worldmaking.md",
-    "Station Eleven.md",
-    "Carpe Jugulum.md",
-    "Ships of Heaven.md"
+    "Untitled 4.md",
+    "Individuals.md",
+    "Inspired, How to create tech products customers love.md",
+    "Einstein.md",
+    "Philip Pullman.md",
+    "Practical Guide to Information Architecture.md"
   ]
 }

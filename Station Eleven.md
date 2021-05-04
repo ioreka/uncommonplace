@@ -29,4 +29,3 @@ He had an idea - too sentimental to speak aloud and he knew none of his divorced
   
 
 She was thinking about the way she’d always taken for granted that the world had certain people in it, either central to her days or unseen and infrequently thought of. How without any one of these people the world is a subtly but unmistakably altered place, the dial turned just one or two degrees.
-[[Babel-17]]
