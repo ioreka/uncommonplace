@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Individuals.md",
+            "file": "The Body, A Guide For Occupants.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals.md",
+                "file": "The Body, A Guide For Occupants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
-    "Individuals.md",
-    "Untitled 1.md",
-    "A Scanner Darkly.md",
+    "The Body, A Guide For Occupants.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Individuals.md",
+    "A Scanner Darkly.md",
     "The Two Towers.md",
     "Babel-17.md",
     "Dune.md",
     "Wyrd Sisters.md",
-    "The Prince.md",
-    "Cloud Atlas.md"
+    "The Prince.md"
   ]
 }
