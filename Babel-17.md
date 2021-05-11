@@ -1,7 +1,8 @@
 #samuel-delaney
 
-The "weapon" is what to do with what you have**
+The "weapon" is what to do with what you have
 
-**She watched the brain, both intelligent and injured, thinking. "If you have the right words," she said, "it saves a lot of time and makes things easier"**
+She watched the brain, both intelligent and injured, thinking. "If you have the right words," she said, "it saves a lot of time and makes things easier"
 
-**You ignite my words with meanings I can only glimpse. What am I surrounding? What am I, surrounding you?
+
+You ignite my words with meanings I can only glimpse. What am I surrounding? What am I, surrounding you?

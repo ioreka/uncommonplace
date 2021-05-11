@@ -7,11 +7,8 @@
         "id": "b85807317aed1dec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Body, A Guide For Occupants.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Body, A Guide For Occupants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Individuals.md",
+    "Zero to one, notes on startups, or how to build the future.md",
+    "knowledge.md",
+    "Wyrd Sisters.md",
     "The Body, A Guide For Occupants.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Individuals.md",
     "A Scanner Darkly.md",
     "The Two Towers.md",
-    "Babel-17.md",
-    "Dune.md",
-    "Wyrd Sisters.md",
-    "The Prince.md"
+    "Babel-17.md"
   ]
 }
