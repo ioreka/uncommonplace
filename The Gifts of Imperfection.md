@@ -1,5 +1,4 @@
 #brene-brown 
-
 We can talk about courage and love and compassion until we sound like a greeting card store, but unless we’re willing to have an honest conversation about what gets in the way of putting these into practice in our daily lives, we will never change. Never, ever. 
 
 Courage sounds great, but we need to talk about how it requires us to let go of what other people think, and for most people, that’s scary. Compassion is something we all want, but are we willing to look at why boundary-setting and saying no is a critical component of compassion? Are we willing to say no, even if we’re disappointing someone? Belonging is an essential component of wholehearted living, but first we have to cultivate self-acceptance - why is this such a struggle? 
