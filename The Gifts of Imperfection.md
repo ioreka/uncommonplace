@@ -1,20 +1,15 @@
 #brene-brown 
 
-**We can talk about courage and love and compassion until we sound like a greeting card store, but unless we’re willing to have an honest conversation about what gets in the way of putting these into practice in our daily lives, we will never change. Never, ever. 
-
-  
+We can talk about courage and love and compassion until we sound like a greeting card store, but unless we’re willing to have an honest conversation about what gets in the way of putting these into practice in our daily lives, we will never change. Never, ever. 
 
 Courage sounds great, but we need to talk about how it requires us to let go of what other people think, and for most people, that’s scary. Compassion is something we all want, but are we willing to look at why boundary-setting and saying no is a critical component of compassion? Are we willing to say no, even if we’re disappointing someone? Belonging is an essential component of wholehearted living, but first we have to cultivate self-acceptance - why is this such a struggle? 
 
-  
 
 It’s only been in the last few years that I’ve learned that playing down the exciting stuff doesn’t take the pain away when it doesn’t happen. It does, however, minimise the joy when it does happen. It also creates a lot of isolation. Once you’ve diminished the importance of something, your friends are not likely to call and say, “I’m sorry that didn’t work out. I know you were excited about it.”
 
-  
 
 During the interviews, it blew my mind when I realised that many of the truly committed compassion practitioners were also the most boundary-conscious people in the study. Compassionate people are boundaried people. I was stunned. 
 
-  
 
 We live in a blame culture - we want to know whose fault it is and how they’re going to pay. In our personal, social, and political worlds, we do a lot of screaming and finger-pointing, but we rarely hold people accountable. How could we? We’re so exhausted from ranting and raving that we don’t have the energy to develop meaningful consequences and enforce them. From Washington, DC, and Wall Street to our own schools and homes, I think this rage-blame-too-tired-and-busy-to-follow-through mind-set is why we’re so heavy on self-righteous anger and low on compassion. 
 

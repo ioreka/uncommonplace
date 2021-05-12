@@ -1,10 +1,10 @@
 #herman-hesse
 
-You have no doubt guessed long since that the conquest of time and the escape from reality, or however else it may be that you choose to describe your longing, means simply the wish to be relieved of your so-called personality. That is the prison where you lie.
+You have no doubt guessed long since that the conquest of time and the escape from reality, or however else it may be that you choose to describe your longing, means simply the wish to be relieved of your so-called personality. That is the prison where you lie. #identity
 
 You have a picture of life within you, a faith, a challenge, and you were ready for deeds and sufferings and sacrifices, and then you became aware by degrees that the world asked no deeds and no sacrifices of you whatever, and that life is no poem of heroism with heroic parts to play and so on, but a comfortable room where people are quite content with eating and drinking, coffee and knitting, cards and wireless. And whoever wants more and has got it in him--the heroic and the beautiful, and the reverence for the great poets or for the saints--is a fool and a Don Quixote. Good. And it has been just the same for me, my friend. I was a gifted girl. I was meant to live up to a high standard, to expect much of myself and do great things. I could have played a great part. I could have been the wife of a king, the beloved of a revolutionary, the sister of a genius, the mother of a martyr. And life has allowed me just this, to be a courtesan of fairly good taste, and even that has been hard enough. That is how things have gone with me. For a while I was inconsolable and for a long time I put the blame on myself. Life, thought I, must in the end be in the right, and if life scorned my beautiful dreams, so I argued, it was my dreams that were stupid and wrong headed. But that did not help me at all. And as I had good eyes and ears and was a little inquisitive too, I took a good look at this so-called life and at my neighbors and acquaintances, fifty or so of them and their destinies, and then I saw you. And I knew that my dreams had been right a thousand times over, just as yours had been. It was life and reality that were wrong.
 
-Poetic writing can be understood and misunderstood in many ways. In most cases the author is not the right authority to decide on where the reader ceases to understand and the misunderstanding begins. Many an author has found readers to whom his work seemed more lucid than it was to himself. Moreover, misunderstandings may be fruitful under certain circumstances.
+Poetic writing can be understood and misunderstood in many ways. In most cases the author is not the right authority to decide on where the reader ceases to understand and the misunderstanding begins. Many an author has found readers to whom his work seemed more lucid than it was to himself. Moreover, misunderstandings may be fruitful under certain circumstances. #poetry
 
 He had thought more than other men, and in matters of the intellect he had that calm objectivity, that certainty of thought and knowledge, such as only really intellectual men have, who have no axe to grind, who never wish to shine, or to talk others down, or to always appear in the right. 
 
@@ -21,7 +21,7 @@ There are good many people of the same kind as Harry. Many artists are of his ki
 #soul #multiplicity 
 
 A man cannot live intensely except at the cost of the self
-#self #life-and-death 
+#self #life-and-death #compromise 
 
 And so all through the mass of the real bourgeoisie are interposed numerous layers of humanity, many thousands of lives and minds, every one of whom, it is true, would have outgrown it and have obeyed the call to unconditioned life, were they not fastened to it by sentiments of their childhood and infected for the most part with its less intense life; and so they are kept lingering, obedient and bound by obligation and service. For with the bourgeoisie the opposite of the formula for the great is true: He who is not against me is with me.
 #class
@@ -36,7 +36,7 @@ Without really wanting to at all, they pay calls and carry on conversations, sit
 #work
 
 I could not bear this tame, lying, well-mannered life any longer.
-#life-and-death 
+#life-and-death #lying
 
 “We immortals ... like joking. Seriousness, young man, is an accident of time. ... Eternity is a mere moment, just long enough for a joke.”
 #eternity #time #jokes

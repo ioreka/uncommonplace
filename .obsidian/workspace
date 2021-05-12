@@ -7,8 +7,11 @@
         "id": "b85807317aed1dec",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Gifts of Imperfection.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#curation-and-selection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Gifts of Imperfection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
-    "An Elegant Puzzle, Systems of Engineering Management.md",
-    "Algorithms to Live By the computer science of human decision.md",
-    "All That Remains, A Life in Death.md",
-    "Airhead, The Imperfect Art of Making News.md",
-    "Adrift, A Secret Life of London's Waterways.md",
-    "A Scanner Darkly.md",
-    "Admissions, A Life In Brain Surgery.md",
-    "Accelerate.md",
-    "A Wizard of Earthsea.md",
-    "A Slip of the Keyboard, Collected Non-fiction.md"
+    "The Gifts of Imperfection.md",
+    "The Face on the Cutting Room Floor.md",
+    "The Doors of Perception.md",
+    "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md",
+    "The Dark Tower.md",
+    "The Cybernetic Hypothesis.md",
+    "The Changing Mind, A Neuroscientist's Guide to Ageing Well.md",
+    "The Body, A Guide For Occupants.md",
+    "The Beginning of Infinity, Explanations that Transform the World.md",
+    "The Age of Ageing Better?.md"
   ]
 }

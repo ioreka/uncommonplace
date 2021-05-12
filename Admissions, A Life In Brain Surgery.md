@@ -43,7 +43,7 @@ A doctor's duty is to relieve suffering as well as prolong life
 #suffering #life-and-death #duty
 
 When my brain dies, 'I' will die. 'I' am a transient electrochemical dance, made of myriad bits of information; and information, as the physicists tell us, is physical. What those myriad pieces of information, disassembled, will re-combine to form after my death, there is no way of knowing.
-#the-brain #self #knowledge #perception 
+#the-brain #self #knowledge #perception #cognition 
  
 it is only after we wake that the conscious brain, seeking meaning, quickly stitches together a whole cloth out of haphazard scraps
 #perception #self #the-brain 

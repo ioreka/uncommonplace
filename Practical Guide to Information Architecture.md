@@ -1,4 +1,5 @@
  However, it isn’t just grouping items that make supermarkets and websites work well. It’s about creating groups that make sense to the people who use them.
+ #documentation #information-architecture #meaningfulness #decision-making #product #empathy #culture #language #linguistics 
 
 That’s what information architecture is all about:
 1\. Organising content or objects  

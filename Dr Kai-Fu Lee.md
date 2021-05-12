@@ -1,1 +1,2 @@
 Elderly people really want to connect with other people and I think giving them primitive, fake, inanimate and non-emotional robots to interact with is a cruel thing that we should not do as human beings - Dr Kai-Fu Lee, former head of Google China
+#older-adults #relationships #androids #care #cruelty 

@@ -7,7 +7,7 @@ What makes us human? One of my favourite definitions is: “Humans belong to the
 #humans-and-machines 
 
 I realised that day that when the animation of the person we were is stripped out of the vessel we used to pilot our way through life, it leaves little more than an echo or shadow in the physical world.
-#life-and-death 
+#life-and-death #spirit #consciousness 
 
 I did it willingly, though with a heavy heart, and proudly, as the last service a grateful daughter could perform in this life for a genuinely kind and loving mother.
 #family #gratefulness #kindness
