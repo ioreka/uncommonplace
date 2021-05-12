@@ -2,38 +2,55 @@
 #will-larson
 
 To make progress, above all else, you must ensure that some of your projects finish. 
+#progress
 
-Finally, the one thing that I've found at  ompanies with very few interruptions and have observed almost nowhere else: really great, consistently available documentation. It's probably even harder to bootstrap documentation into a non-documenting company than it is to bootstrap unit tests into a non-testing company, but the best solution to frequent interruptions I've seen is a culture of documentation, documentation reading, and a documentation search that actually works. 
+Finally, the one thing that I've found at companies with very few interruptions and have observed almost nowhere else: really great, consistently available documentation. It's probably even harder to bootstrap documentation into a non-documenting company than it is to bootstrap unit tests into a non-testing company, but the best solution to frequent interruptions I've seen is a culture of documentation, documentation reading, and a documentation search that actually works. 
+#documentation 
 
 Organizational debt is the organizational sibling of technical debt, and it represents things like biased interview systems and inequitable compensation mechanisms. these are systemic problems that are preventing your oganization from reaching its potential. 
+#organisation 
 
 As an organizational leader, you'll always have a portfolio of risk, and you'll always be doing badly at some things that are important to you. That's not only okay, it's unavoidable. 
+#leadership #risk
 
 The best changes often go unnoticed, moving from one moment of stability to another, with teams and organizations feeling stable at every step. 
+#dynamism 
 
-The key tools for leading efficient change are systems thinking, metrics, and vision. 
+The key tools for leading efficient change are systems thinking, metrics, and vision.
+#systems-thinking #leadership 
 
-When the steps of change are too wide, teams get destabilized, and gaps open within them. In those moments, managers create stability by becoming glue. 
+When the steps of change are too wide, teams get destabilized, and gaps open within them. In those moments, managers create stability by becoming glue.
+#stability
 
-Product management is an iterative elimination tournament, with each round consisting of problem discovery, problem selection, and solution validation. 
+Product management is an iterative elimination tournament, with each round consisting of problem discovery, problem selection, and solution validation.
+#product
 
 Taking the time to evaluate which problem to solve is one of the best predictors I've found of a team's long-term performance. 
+#performance #problemsolving
 
-Folks are often comfortable with hard decisions in the abstract, but struggle to translate policies into the specific steps to implement them. 
+Folks are often comfortable with hard decisions in the abstract, but struggle to translate policies into the specific steps to implement them.
+#decision-making
 
-The act of writing strategy leads oflks through a systematic analysis, so, even if we don't share them, writing these documents helps us work through quite a few challenges, both overwhelming and mundane. 
+The act of writing strategy leads folks through a systematic analysis, so, even if we don't share them, writing these documents helps us work through quite a few challenges, both overwhelming and mundane.
+#documentation 
 
 People sometimes describe strategy as artful or sophisticated, but I've found that the hardest part of writing a good strategy is pretty mundane. You must be honest about the constraints that are making the challenge difficult, which almost always include people and organizational aspects that are uncomfotable to acknowledge. No extent of artistry can solve a problem that you're unwilling to admit.
+#strategy #honesty #creativity #problemsolving 
 
 I've found metrics to be an extremely effective way to lead change with little or no organizational authority. 
+#data
 
-What's so powerful about nudges is that simply letting folks know that their behaviour has changed will typicall stir them to action, and it doesn't require any sort of organizational authority to do so. 
+What's so powerful about nudges is that simply letting folks know that their behaviour has changed will typically stir them to action, and it doesn't require any sort of organizational authority to do so. 
+#nudges #authority
 
 You unravel most puzzles knowing they're solvable.
+#problemsolving 
 
 Management is an ethical profession, and our decisions matter, especially the hard ones. 
+#ethics #decision-making 
 
 Policy success is directly dependent on how we handle requests for exception. 
+#compromise #consistency
 
 Folks who communicate a no effectively are not the firmest speakers, nor do they make frequent use of the word. They are able to convincingly explain their team's constraints and articulate why the proposed path is either unattainable or undesirable. 
 
