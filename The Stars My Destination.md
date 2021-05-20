@@ -1,6 +1,6 @@
 #alfred-bester
 
-a man is a member of society first, and an individual second. you must go along with society, whether it chooses destruction or not 
+a man is a member of society first, and an individual second. you must go along with society, whether it chooses destruction or not #community
 
 ‘there’s got to be more to life than just living,’ foyle said to the robot.
 
@@ -24,15 +24,15 @@ a man is a member of society first, and an individual second. you must go along 
 
 ‘ you’ve saved the day.’
 
-‘always a lovely day somewhere, sir,’ the robot beamed. then it fizzed, jangled, and collapsed.
+‘always a lovely day somewhere, sir,’ the robot beamed. then it fizzed, jangled, and collapsed. #power
 
-‘who the hell are we to make decisions for the world just because we’re compulsive? let the world make its own choice between life and death. why should we be saddled with the responsibility?’
+‘who the hell are we to make decisions for the world just because we’re compulsive? let the world make its own choice between life and death. why should we be saddled with the responsibility?’ #life-and-death #responsibility 
 
-‘we’re not saddled,’ yang yeovil said quietly. ‘we’re driven. we’re forced to seize the responsibility that the average man shirks.’
+‘we’re not saddled,’ yang yeovil said quietly. ‘we’re driven. we’re forced to seize the responsibility that the average man shirks.’ #men
 
 ‘then let him stop shirking it. let him stop tossing his duty and guilt onto the shoulders of the first freak who comes along grabbing at it. are to be scapegoats for the world forever?’
 
-‘damn you!’ dagenham raged. ‘don’t you realise that you can’t trust people? they don’t know enough for their own good.’
+‘damn you!’ dagenham raged. ‘don’t you realise that you can’t trust people? they don’t know enough for their own good.’ #trust
 
 ‘then let them learn or die. we’re all in this together. let’s live together or die together.’
 

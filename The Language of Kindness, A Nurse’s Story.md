@@ -1,18 +1,12 @@
-**
+#kindness #care #cartesian-duality #healthcare #meaningfulness #language #life-and-death #love #marriage #grief #ageing 
 
 Mark Twain - Kindness is the language which the deaf can hear and the blind can see.
-
-  
 
 You cannot separate mind and body. We are all souls, housed in flesh. 
 
 Nurses do not explicitly search for meaning, but it is part and parcel of their day job. Nurses certainly use the language of the heart. They understand and describe patients as broken-hearted. Many nurses has seen it. And the best nursing comes from the heart, and not from the head. 
 
-  
-
 But for all that I’ve seen and touched and smelled, and as difficult as it is at the time, there is a patient at the centre of it, afraid and embarrassed. Nurses make good poker players, understanding the importance of not breathing in; of breath-holding so subtly that the patient does not realise, and does not see any expression other than a matter-of-fact one. The horror of our bodies - our humanity, our flesh and blood - is something nurses must bear, lest the patient think too deeply, remember the lack of dignity that makes us all vulnerable. It is our vulnerability that unites us. Promoting dignity in the face of illness is one of the best gifts a nurse can give. 
-
-  
 
 Simone de Beauvoir - Life is occupied in both perpetuating itself and in surpassing itself; if all it does is maintain itself, then living is only not dying. 
 

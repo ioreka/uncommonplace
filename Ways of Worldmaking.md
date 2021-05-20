@@ -1,7 +1,5 @@
 #nelson-goodman
-
-**
-
+#fantasy #multiplicity #perception #sorting-and-searching #curation-and-selection #nature #language #linguistics #meaningfulness #creativity 
 Countless worlds made from nothing by use of symbols
 
 There are as many different worlds as there are such mutually exclusive truths

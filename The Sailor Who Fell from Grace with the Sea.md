@@ -1,4 +1,5 @@
 #yukio-mishima
+#the-sea #love #risk #the-lived-experience 
 
 He found himself in the strange predicament all sailors share: essentially he belonged neither to land nor to sea. Possibly a man who hates the land should dwell on shore forever.
 

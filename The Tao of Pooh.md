@@ -1,3 +1,5 @@
+#knowledge #experience #strength #self-awareness #ethics
+
 But sometimes the knowledge of the scholar is a bit hard to understand because it doesn't seem to match up with our own experience of things. In other words, Knowledge and Experience do not necessarily speak the same language. But isn't the knowledge that comes from experience more valuable than the knowledge that doesn't?
 
 A saying from the area of Chinese medicine would be appropriate to mention here: "one disease, long life; no disease, short life." In other words, those who know what's wrong with them and take care of themselves accordingly will tend to live a lot longer than those who consider themselves perfectly healthy and neglect their weaknesses. So, in that sense at least, a Weakness can do you a big favor, IF you acknowledge that it's there. \[...\] Once you face and understand your limitations, you can work WITH them, instead of having them work against you and get in your way, which is what they do when you ignore them, whether you realize it or not. And then you will find that, in many cases, your limitations can be your strengths.

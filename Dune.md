@@ -24,6 +24,7 @@ The mystery of life isn't a problem to solve, but a reality to experience
 I am the well-trained fruit tree, he thought. Full of well-trained feelings and abilities and all of them grafted into me - all bearing for someone else to pick. Halleck
 
 Polish comes from the cities; wisdom from the desert
+#cities
 
 The memories touched his feelings of terrible purpose, shading this strange world with sensations of familiarity that he could not understand
 

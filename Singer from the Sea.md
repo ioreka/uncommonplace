@@ -17,7 +17,7 @@ Genevieve shifted on the hard seat, making herself more comfortable. "Stephanie 
 He nodded to himself, thinking. "Well, if everything in a world is tied together, if each thing is a part of something else and you can't take it away without changing the other thing, then IF there are souls, it stands to reason the souls would apply to the whole rather than to the part. Wouldn't it?"  
 She nodded, slowly. "That's what I thought. Partly because of the way I feel sometimes, looking at a sunset or during a storm of rain when the trees move and sigh, and I get this feeling, this kind of "wholeness" feeling, as though I was feeling the whole world moving in me. I don't get that feeling in cities, or just from other people. So, it could be, you know, that the world has a soul and we're part of that, and when we're right with it, we can feel part of it, too..."  
 "Besides," said Jeorfy, "all of us humans are pretty much alike, aren't we, so if we all had souls, our souls would be very much alike. You read old, old books, and the people in them are just like the people now. Same emotions, same hopes and fears. Same sins. Same virtues. But worlds... Now worlds are unique and they're always changing"
-#fantasy #spirit #the-lived-experience 
+#fantasy #spirit #the-lived-experience #cities
 
 Men of customary inaction \[can\] be spurred to sporadic express. Such men often start ill-planned projects that they lack either energy to complete or the wit to abandon
 

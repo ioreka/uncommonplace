@@ -35,7 +35,7 @@ Plants are the infrastructure of ecosystems.
 A change in perspective is worth 80 IQ points.
 #alankay
 
-Mental health is almost uniformly worse in cities… that’s just what the data shows. There isn’t really a bright side to this. #meyerlindenberg
+Mental health is almost uniformly worse in cities… that’s just what the data shows. There isn’t really a bright side to this. #meyerlindenberg #cities
 
 The rain falls. The sun shines. The wind blows. And that’s what it’s like. We are buffeted by this, by that, and it is nothing to do with you. Someone you love dies, or leaves. You get ill or you get better. You grow old and you remember, or you forget. And all the time, everywhere, there is this canopy stretching over you… - #ONSIND, “Kim Kelly is still my best friend” (taken from The Singing Detective)
 

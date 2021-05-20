@@ -16,7 +16,7 @@ Silent, my starship suspended in night”
 The corporate world’s full of ghosts \[...\] high functioning sleepwalkers.
 
 On silent afternoons in his brother’s apartment, Jeevan found himself thinking about how human the city is, how human everything is. We bemoaned the impersonality of the modern world, but all that was a lie, it seemed to him; it had never been impersonal at all. There had always been a massive delicate infrastructure of people, all of them working unnoticed around us, and when people stop going to work, the entire operation grinds to a halt. No one delivers fuel to the gas stations or the airports. Cars are stranded. Airplanes cannot fly. Trucks remain at their points of origin. Food never reaches the cities; grocery stores close. Businesses are locked down and then looted. No one comes to work at the power plants or the substations, no one removes fallen trees from electrical lines. 
-#humans-and-machines #community
+#humans-and-machines #community #cities
 
 He had an idea - too sentimental to speak aloud and he knew none of his divorced friends would ever own up to it - that something must linger, a half-life of marriage, some sense memory of love even if obviously not the thing itself. He thought these people must mean something to one another, even if they didn’t like one another any more. 
 #marriage #relationships #memory

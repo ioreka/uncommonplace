@@ -1,4 +1,5 @@
 #nelson-goodman 
+#linguistics #language #meaningfulness  #worldmaking #perception #multiplicity #patterns #creativity 
 
 predicates, pictures, other labels, schemata, survive want of application, but content vanishes without form. we can have words without a world but no world without words or other symbols 
 

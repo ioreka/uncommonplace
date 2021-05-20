@@ -1,1 +1,2 @@
 And then I began to think, Maybe each human being lives in a unique world, a private world, a world different from those inhabited by all other humans. And that led me to wonder, If reality differs from person to person, can we speak of reality singular, or shouldn't we really be talking about plural realities? And if there are plural realities, are some more true (more real) than others?
+#perception #consciousness #the-lived-experience  #multiplicity #the-unknown #the-universe 

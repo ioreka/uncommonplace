@@ -1,4 +1,5 @@
 #emily-chappell 
+#bicycles #queer #culture #language #fantasy #london #cognition 
 
 Humanity will always find a foothold, I remind myself, no matter how apparently inhospitable the conditions
 

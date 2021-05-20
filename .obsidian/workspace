@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Gifts of Imperfection.md",
+            "file": "Eats, shoots and leaves.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#curation-and-selection",
+                "query": "tag:#suffering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Gifts of Imperfection.md",
+                "file": "Eats, shoots and leaves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
-    "The Gifts of Imperfection.md",
-    "The Face on the Cutting Room Floor.md",
-    "The Doors of Perception.md",
-    "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md",
-    "The Dark Tower.md",
-    "The Cybernetic Hypothesis.md",
-    "The Changing Mind, A Neuroscientist's Guide to Ageing Well.md",
-    "The Body, A Guide For Occupants.md",
-    "The Beginning of Infinity, Explanations that Transform the World.md",
-    "The Age of Ageing Better?.md"
+    "Untitled.md",
+    "Individuals.md",
+    "Infinite Jest.md",
+    "Inspired, How to create tech products customers love.md",
+    "Natalie Nzeyimana.md",
+    "When Breath Becomes Air.md",
+    "The Woman Who Borrowed Memories.md",
+    "The Wise Man's Fear.md",
+    "The Warmth of the Heart Keeps the Body from Rusting.md",
+    "The 100 Year Life, Living and Working in an Age of Longevity.md"
   ]
 }

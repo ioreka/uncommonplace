@@ -75,7 +75,7 @@ The ‘Young-Old’ do not want a quiet life, they want to live like they mean i
 #meaningfulness #autonomy 
 
 There are literally millions of older people in European cities who rarely or never leave their homes for social, emotional, financial or mobility reasons. It’s no good having a ‘kneeling’ bus if you can’t get to the bus stop - or you’re scared to walk down the street because it’s unsafe. 
-#loneliness 
+#loneliness #cities
 
 Health Revolution: Robots care for you, humans care about you.
 #humans-and-machines 
