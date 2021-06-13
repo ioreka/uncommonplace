@@ -2,7 +2,7 @@
 #will-larson
 
 To make progress, above all else, you must ensure that some of your projects finish. 
-#progress
+#progress #adhd
 
 Finally, the one thing that I've found at companies with very few interruptions and have observed almost nowhere else: really great, consistently available documentation. It's probably even harder to bootstrap documentation into a non-documenting company than it is to bootstrap unit tests into a non-testing company, but the best solution to frequent interruptions I've seen is a culture of documentation, documentation reading, and a documentation search that actually works. 
 #documentation 
