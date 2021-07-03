@@ -9,6 +9,7 @@ Thinking is our most vital and miraculous talent, yet in a profound physiologica
 #consciousness 
 
 The biggest part of seeing isn't receiving visual images, it's making sense of them. 
+#sense-making #processing #the-senses 
 
 What you see is not what is, but what your brain tells you it is, and that's not the same thing at all. 
 
@@ -18,7 +19,7 @@ As the French anatomist G.-B. Duchenne de Boulogne noticed as long ago as 1862, 
 To say that your body is your long-suffering servant is to put it mildly. 
 #suffering
 
-Insulin is a hormone. Hormones are the bicycle messengers of the body, delivering chemical messages all around the teeming metropolis that is you. #bicycles
+Insulin is a hormone. Hormones are the bicycle messengers of the body, delivering chemical messages all around the teeming metropolis that is you. #bicycles #the-body 
 
 In breathing, as in everything in life, the numbers are fantastical. #data
 

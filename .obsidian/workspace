@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reclaiming the Middle-earth from before the movies.md",
+            "file": "Wanderlust.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "disover",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reclaiming the Middle-earth from before the movies.md",
+                "file": "Wanderlust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Wanderlust.md",
+    "Under the Skin, Love Letters to the Body.md",
+    "The Body, A Guide For Occupants.md",
+    "When Breath Becomes Air.md",
+    "Reaper Man.md",
+    "The Naked Ape.md",
     "Untitled.md",
-    "Warcraft, the Last Guardian.md",
-    "The Old Astronomer to his Pupil.md",
-    "Team Topologies, organizing business and technology teams for fast flow.md",
-    "The Cybernetic Hypothesis.md",
-    "The Power of Habit, Why we do what we do and how to change.md",
     "Ethical Business Practice and Regulation.md",
-    "Accelerate.md",
-    "Infinite Jest.md",
-    "Nanny Ogg's Cookbook.md"
+    "Reclaiming the Middle-earth from before the movies.md",
+    "Warcraft, the Last Guardian.md"
   ]
 }

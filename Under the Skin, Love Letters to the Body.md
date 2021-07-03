@@ -1,5 +1,5 @@
 To have a body is to learn to grieve - Michael Heffernan
-#grief #the-lived-experience 
+#grief #the-lived-experience #the-body
  
 Yes, the appendix is a relic and a liability, but only to the same degree as every other inch of the shambling, flaking, leaking, throbbing concatenation of relics and liabilities that I proudly call my mortal body - Ned Beauman
 #mortality #medicine 
@@ -11,7 +11,7 @@ When we make 'eye contact', the organ viewed from the outside is a gorgeous thin
 
 There are, I realised, other forms of seeing and knowing. Hull's depiction is of a paradigm shift where the intimacy of blindness alters one's consciousness. 
 
-As John Hull says, 'Sighted people live in a world that is a projection of their sighted bodies. It is not THE world, it is a world.'
+As John Hull says, 'Sighted people live in a world that is a projection of their sighted bodies. It is not THE world, it is a world.' #sight #the-senses 
 
 Most of us take our sightedness for granted, and our sense of who we are comes almost casually, slyly, bound up with that. Blindness, especially when it befalls one later than early childhood, can feel at first like a bereavement and a strange, intimate trap: an oubliette down which one is forced to fall. For those to whom this has happened, their very consciousness must be remade.
 
