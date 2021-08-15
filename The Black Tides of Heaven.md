@@ -7,4 +7,4 @@ Thennjay stared at the heavy canvas ceiling in contemplation. Then he said, “G
 #fate-and-fortune #strength
 
 With all the horrors in the world, it was easy to forget there were wonders too.
-#joy-and-sorrow #perception
+#joy-and-sorrow #perception #dichotomy

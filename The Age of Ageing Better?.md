@@ -38,7 +38,7 @@ People living in areas like Kesington and Chelsea in London can enjoy, on averag
 #poverty 
 
 The reality is that those of us who are educated and reasonably well off enjoy not only longer lives, but also live longer in good health than people on lower incomes. There are growing inequalities in the experience of ageing. 
-#edustion 
+#education 
 
 Dr John Beard: In setting policy, we must not reinforce those inequities. We should not just be thinking about raising the average wellbeing of older people, we must give particular attention to those at the bottom, so we can raise their rate disproportionately to the rich and narrow the gap.
 

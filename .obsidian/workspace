@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wanderlust.md",
+            "file": "The Restless Clock.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disover",
+                "query": "edus",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wanderlust.md",
+                "file": "The Restless Clock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
-    "Wanderlust.md",
-    "Under the Skin, Love Letters to the Body.md",
-    "The Body, A Guide For Occupants.md",
-    "When Breath Becomes Air.md",
-    "Reaper Man.md",
-    "The Naked Ape.md",
     "Untitled.md",
-    "Ethical Business Practice and Regulation.md",
-    "Reclaiming the Middle-earth from before the movies.md",
-    "Warcraft, the Last Guardian.md"
+    "An Extra Pair of Hands.md",
+    "The Age of Ageing Better?.md",
+    "On Friendship.md",
+    "Making Stuff & Doing Things DIY Guides to Just About Everything.md",
+    "The Black Tides of Heaven.md",
+    "An extra pair of hands.md",
+    "Reaper Man.md",
+    "Team Topologies, organizing business and technology teams for fast flow.md",
+    "The Cybernetic Hypothesis.md"
   ]
 }

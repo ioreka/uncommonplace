@@ -8,4 +8,4 @@ If all of us demand control over what we do and what goes on around us, if all o
 #power #risk
 
 In America we are only expected to dedicate 13 years to education, perhaps with an additional 2-8 years for the particularly (and typically) ambitious and privileged. After that we are supposed to have all the knowledge we need, at which point we kick into production mode of working to pay the bills. Not only is the idea that we have all the knowledge we need in this comparatively short period of time illogical considering the constant change and progress of the world around us, but it keeps us bound in production mode. The fact is, while the world is constantly changing, so are the people. They need more information not only to function in their jobs, but to satisfy the self - the part of us that is constantly changing, growing, evolving. \[...\] It seems that the popular view point is that if learning isn’t rewarded with a degree or a promotion, then it holds no value.
-#edustion #work #value 
+#education #work #value 

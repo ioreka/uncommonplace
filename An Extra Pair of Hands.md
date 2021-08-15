@@ -101,3 +101,27 @@ Coping with, and preparing for, grief is a key part of being a carer of an older
 We often mistake a rigid timetable for efficiency.
 
 We fail to conceal the idea that we think our time might be, somehow, more important than the cadence of hospital procedures, than the saving of a life, than the caring for someone critically or terminally ill. Beneath this impatience, perhaps, is a deeper fear that we are diminished by being patient. We feel invisible as the person we are. Just another number in the anonymous line.
+
+Allowing choice, allowing agency, even if it means things will take longer, is a key component to caring well, caring thoughtfully.
+#meaningfulness #choice #decision-making #autonomy #compromise 
+
+It is a cause for celebration that more people are living longer and living longer healthier lives. But, at the same time, we need to pay attention to the quality of that life. Living well and then having the right to die well should be seen as two sides of the same coin. The extension of life through science and technology has sometimes failed to take into account an individual’s wavering desire to struggle on when their quality of life is severely impaired.
+#quality-of-life  #dying #science 
+
+In our house, where three generations live together, the NHS is part of our daily lives. Without them, there would be no us.
+#nhs #family #social-contract 
+
+There is a courage in outliving everyone you know, but also a poignancy that yet another person who was part of your story is gone.
+#loneliness 
+
+It’s a reminder that all any of us can do – for ourselves or those we are caring for – is to take one day at a time. Enjoy the good days, muddle through the bad days, and never take anything for granted.
+#gratefulness 
+
+Zora Neale Hurston wrote: ‘There are years that ask questions and years that answer.’
+#patience
+
+I remain ever more convinced that it is the shared stories that we tell and retell that see us through the hard times. The moments of light and fellow feeling that give us the courage to keep doing it all over again. Caring is a responsibility, it’s a joy, it’s tough, it carries on just the same, regardless of what’s happening in the world outside. But whatever the trials of the present, we can continue to connect with one another by reminding ourselves of the things that make us ‘us’. All the ‘do you remember when …?’ and ‘what about that day when …?’
+#narrative #stories #memory #courage #bravery 
+
+The Arundel Tomb about which Larkin writes so beautifully and tenderly is in the north aisle of Chichester Cathedral. Larkin visited with his lover in 1956 and was moved to write the poem after gazing on the recumbent medieval figures with their stone hands joined in death, an earl and his countess, a little dog at their feet. Despite the ambivalence of the poem, its final line still serves as the truest epitaph: ‘What will survive of us is love.’
+#love #poetry 

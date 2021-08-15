@@ -26,7 +26,7 @@ Has anyone ever acquired intelligence through logic? Where are her beautiful pro
 #intelligence #artificial-intelligence 
 
 In my part of the country and during my own lifetime school-learning has brought amendment of the purse but rarely amendment of the soul. \[...\] This world is but a school of enquiry. The question is not who will spear the ring but who will make the best charges at it. 
-#edustion #pursuit-of-knowledge #growth 
+#education #pursuit-of-knowledge #growth 
 
 There is always an element of tyrannical bad temper in being unable to tolerate characters different from your own.
 #anger 
