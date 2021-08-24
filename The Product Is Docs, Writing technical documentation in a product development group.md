@@ -201,35 +201,18 @@ The internet has a lot to say about documentation using a wiki. For every good t
 At Splunk, all employees can edit the documentation. When we mention that to many tech writers, they look a little pale and shaky. Perhaps they’re imagining a management directive handed down to them: “We’re a collaborative company! Just imagine how up-to-the-minute our product documentation will be! Anyone can add content so surely everyone will contribute!” They entertain fearful thoughts of chaotic information architecture, duplicate content, circular logic, long-winded diatribes in the form of knowledge articles, and a manifest ignorance of the finer points of grammar and clear writing. Further, this anxiety extends into what has been referred to as content ROT (redundant, obsolete, and trivial). If everyone owns content creation, then no one owns it, right? And if no one owns it, no one will validate it, update it, curate it, or kill it when necessary.
 #product #care 
 
-
-
-Obtain the right background To be a good technical writer, you have to understand the mental model that your engineers have and speak the same language they use. No matter how well you understand the customer and use case, if you lack the knowledge and technical skill to have a substantive, collaborative, peer conversation with engineers, you’re going to be marginalized in the project team and the quality of your content will suffer. In the best case, you will turn into a copyeditor who polishes what engineers give you. In the worst case, they will dismiss or ignore you entirely, and you’ll be forced to document something you don’t understand without meaningful access to useful information from the people who built it.
-
-
+To be a good technical writer, you have to understand the mental model that your engineers have and speak the same language they use. No matter how well you understand the customer and use case, if you lack the knowledge and technical skill to have a substantive, collaborative, peer conversation with engineers, you’re going to be marginalized in the project team and the quality of your content will suffer. In the best case, you will turn into a copyeditor who polishes what engineers give you. In the worst case, they will dismiss or ignore you entirely, and you’ll be forced to document something you don’t understand without meaningful access to useful information from the people who built it.
 
 Exercise your own knowledge to help shape the product. If the product is docs and docs are the product, then you are a designer, a developer, and a product manager, too.
 
-
-
 Engineers are unlikely to interact with customers at regular intervals. Some engineers work with customers on specific support case escalations, but this is a limited interaction and it doesn’t happen all that often. When engineers build a product, their understanding of the customer comes from product managers and other stakeholders. You, as a documentarian, play an important role in helping engineers understand their customers through your own direct customer contact and the alliances you build with the field.
-
-
 
 integrated content experience
 
-
-
 The product’s users usually get their first introduction to product features from marketing or other presales content. As a documentation team, you want their transition from the marketing content to the documentation content to be seamless, cohesive, and logical.
-
-
 
 acceptance criteria Part of the core responsibility of a product manager is to understand customers and to translate their business needs into product goals.
 
-
-
-
 The fact is, sometimes our UX design and engineering teams turn out products that fail the customer, even when they’re functioning exactly as designed.
-
-
 
 If you see something, say something: the writer’s role as user advocate
