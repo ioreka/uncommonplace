@@ -1,0 +1,1 @@
+Globally, 96% of physicians say medical journals have ‘some’ or ‘a lot of’ influence over their practice and prescribing habits.

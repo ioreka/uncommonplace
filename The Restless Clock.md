@@ -69,10 +69,40 @@ Descartes wrote that it was "the soul that senses, and not the body," since when
 #sense-making #the-senses #perception #cognition #soul 
 
 Only humans too, Hobbes thought, had curiosity, that "lust of the mind ... [that] exceedeth the short vehemence of any carnal pleasure."
+#pursuit-of-knowledge 
 
+Modern science was born, still according to the traditional story, as written by the 17th-century actors themselves, when philosphers such as Descartes, Francis Bacon, Isaac Newton, and others insisted that nature be understood not in terms of these mysterious properties, but only in terms of material parts and their movements, as brute machinery. However - and this is one reason why the origin myth of modern science is just that, a mythologized version of events - the model of nature as brute machinery carried a powerful new theology of its own. 
+#religion #faith 
 
+Harvey taught his anatomy and surgery students that the brain was a kind of workshop, a "manufatory". Brains produced works of art by bringing an immaterial idea or form to matter. Perhaps a uterus produced an embryo in the same way, by means of a "plastic art" capable of bringing an idea or form to flesh. The form of an embryo existed in the uterus of the mother just as the form off a house existed in the brain o the builder. 
+#creativity #productivity #the-brain 
 
+Insisting of the inseparability of God from nature, Spinoza argued that with regard to natural phenomena, there could be no external criteria or good or ill. Nature simply _was_. 
+#nature #good-and-evil 
 
+Liebniz - Since chunks of inert matter, on their own, in his view explained nothing, he replaced extension (size and shape) with perception, and offered an equal and opposite philosophy to Hobbesian materialism: a reduction of matter to spirit. In place of chunks of matter, he put perceiving souls. The building blocks of his cosmos were not blocks but little souls. 
+#perception 
+
+Liebniz - no difference in substance, therefore, divided material from spiritual things. 
+
+Being composed o several pieces, a machine "would act diversely, because the particular activity of each piece could at any moment change the course of others." To Bayle, a machine was something made o active parts whose actions generated possibilities.
+#systems-thinking #consequences 
+
+Living things, Liebniz explained, were more thoroughly mechanical than any artificial device created by human beings. That was because God's machines were irreducibly mechanical down to their "smallest distinguishable parts".
+
+Living machines, that is, creatures, had no true beginnings, apart from the beginning of time, an no real endings: births and deaths were but appearances. Liebniz cited in evidence the transformations revealed by the microscopists whose work he ad studied, which he took to show that animal substance had no beginning. Its apparent generation was "nothing but a development, a sort of augmentation." In reality there was only development and growth, envelopment and diminution. And in this continual waxing and waning, certain souls rose to the degree o reason and to the prerogative of minds. 
+#dying #life-and-death #connection #self-and-other 
+
+Mechanical calculators had an analogous effect to the automatic loom, demoting calculation from a paradigm o intelligence to the antithesis of intelligence. If a machine could calculate, then something else - say, decision making or language - must be emblematic of human intelligence.
+#language #intelligence #artificial-intelligence #decision-making #humans-and-machines 
+
+The Enlightenment man-machine was a great thought experiment, an attempt to reintegrate the human self into the material world, the soul into the machinery. For the first time, people tried to imagine whether a human being could actually be a machine through and through, a purely material set of moving parts, and what that might mean.
+#pursuit-of-knowledge 
+
+Frederick II - "He believed he could see clearly that thought is but a consequence of the organization of the machine, and that the disturbance of the springs has considerable influence on that part of us which the metaphysicians call the soul."
+#humans-and-machines #consequences 
+
+ 
 
 
 

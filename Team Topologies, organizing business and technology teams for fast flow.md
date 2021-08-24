@@ -3,6 +3,7 @@
 Organizations are constrained to produce designs that reflect communication paths #anthropology #communication #product #architecture 
 
 Conway 1968 - "Given any particular team organization, there is a class of design alternatives which cannot be effectively purused by such an organization because the necessary communication paths do not exist"
+#conways-law 
 
 Building and running these highly complex, interconnected software systems is a team activity, requiring the combined efforts of people with different skills across different platforms. In addition, modern IT organizations must deliver and operate software systems rapidly AND safely, while simultaneously growing and adapting to changes and pressures in the business or regulatory environment. Businesses can no longer choose between optimizing for safety and optimizing for speed. 
 #teamwork #optimization #business #software #work 
@@ -13,7 +14,7 @@ Organizations that rely too heavily on org charts and matrices to split and cont
 As members of the technology teams managing these interfaces, we must shift our thinking from treating teams as collections of interchangable individuals that will succeed as long as they follow the "right" process and use the "right" tools, to treating humans and technology as a single human/computer carbon/silicon sociotechnical ecosystem. At the same time, we need to ensure that teams are intrinsically motivated and are given a real chance of doing their best work within such a system. 
 #teamwork #culture #productivity #humans-and-machines 
 
-By keeping things team-sized, we help to achieve what MacCormack and colleagues call "an 'architecture for paticpation' that promotes ease of understanding by limiting module size, and ease of contribution by minimizing the propagation of design changes."
+By keeping things team-sized, we help to achieve what MacCormack and colleagues call "an 'architecture for paricpation' that promotes ease of understanding by limiting module size, and ease of contribution by minimizing the propagation of design changes."
 #participation 
 
 With open-plan offices and, particularly, with ubiquitous, instant communication via chat tools, anyone can communicate with anyone else. In this situation, one can accidentally fall into a pattern of communication and interaction where everyone NEEDS to communicate with everyone else (putting the onus on the consumer to distill what is relevant) in order to get work done. From the viewpoint of Conway's law, this will drive unintended consequences for the software systems, especially a lack of modularity between subsystems. 

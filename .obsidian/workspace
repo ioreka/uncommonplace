@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Restless Clock.md",
+            "file": "The Product Is Docs, Writing technical documentation in a product development group.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edus",
+                "query": "Conway",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Restless Clock.md",
+                "file": "The Product Is Docs, Writing technical documentation in a product development group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
-    "Untitled.md",
-    "An Extra Pair of Hands.md",
-    "The Age of Ageing Better?.md",
-    "On Friendship.md",
-    "Making Stuff & Doing Things DIY Guides to Just About Everything.md",
-    "The Black Tides of Heaven.md",
-    "An extra pair of hands.md",
-    "Reaper Man.md",
+    "The Product Is Docs, Writing technical documentation in a product development group.md",
     "Team Topologies, organizing business and technology teams for fast flow.md",
-    "The Cybernetic Hypothesis.md"
+    "Untitled.md",
+    "Ways of Worldmaking.md",
+    "The 100 Year Life, Living and Working in an Age of Longevity.md",
+    "Exhalation.md",
+    "Robin Hobb.md",
+    "Curation, The Power of Selection in a World of Excess.md",
+    "Algorithms to Live By the computer science of human decision.md",
+    "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md"
   ]
 }
