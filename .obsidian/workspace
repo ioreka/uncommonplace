@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Convolutions, writing the literary brain.md",
+            "file": "CEO origin, job mobility, and post-succession performance, PhD thesis.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308
   },
   "right": {
     "id": "cfa8bf37feff88c4",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convolutions, writing the literary brain.md",
+                "file": "CEO origin, job mobility, and post-succession performance, PhD thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
     "Untitled.md",
+    "Convolutions, writing the literary brain.md",
     "Individuals.md",
     "Michael Simmons.md",
     "The Product Is Docs, Writing technical documentation in a product development group.md",
@@ -96,7 +97,6 @@
     "Team Topologies, organizing business and technology teams for fast flow.md",
     "Ways of Worldmaking.md",
     "The 100 Year Life, Living and Working in an Age of Longevity.md",
-    "Robin Hobb.md",
-    "Curation, The Power of Selection in a World of Excess.md"
+    "Robin Hobb.md"
   ]
 }
