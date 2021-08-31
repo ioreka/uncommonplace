@@ -1,3 +1,5 @@
+“Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. Programmers who subconsciously view themselves as artists will enjoy what they do, and will do it better.” — Donald Knuth
+
 The seven faced god has cheated me. My noble sire he made of purest gold, and gold he made my siblings, boy and girl. But I am formed of darker stuff, of bones and blood and clay, twisted into this rude shape you see before you - Tyrion Lannister
 
 "To know how to write well is to know how to think well" - Blaise Pascal

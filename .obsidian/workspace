@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Product Is Docs, Writing technical documentation in a product development group.md",
+            "file": "Individuals.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Conway",
+                "query": "philosophically",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Product Is Docs, Writing technical documentation in a product development group.md",
+                "file": "Individuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Individuals.md",
+    "Michael Simmons.md",
     "The Product Is Docs, Writing technical documentation in a product development group.md",
+    "Exhalation.md",
     "Team Topologies, organizing business and technology teams for fast flow.md",
     "Untitled.md",
     "Ways of Worldmaking.md",
     "The 100 Year Life, Living and Working in an Age of Longevity.md",
-    "Exhalation.md",
     "Robin Hobb.md",
-    "Curation, The Power of Selection in a World of Excess.md",
-    "Algorithms to Live By the computer science of human decision.md",
-    "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md"
+    "Curation, The Power of Selection in a World of Excess.md"
   ]
 }
