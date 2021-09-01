@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CEO origin, job mobility, and post-succession performance, PhD thesis.md",
+            "file": "The Restless Clock.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEO origin, job mobility, and post-succession performance, PhD thesis.md",
+                "file": "The Restless Clock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "The Restless Clock.md",
+    "CEO origin, job mobility, and post-succession performance, PhD thesis.md",
     "Untitled.md",
     "Convolutions, writing the literary brain.md",
     "Individuals.md",
@@ -95,8 +97,6 @@
     "The Product Is Docs, Writing technical documentation in a product development group.md",
     "Exhalation.md",
     "Team Topologies, organizing business and technology teams for fast flow.md",
-    "Ways of Worldmaking.md",
-    "The 100 Year Life, Living and Working in an Age of Longevity.md",
-    "Robin Hobb.md"
+    "Ways of Worldmaking.md"
   ]
 }

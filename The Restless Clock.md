@@ -102,7 +102,106 @@ The Enlightenment man-machine was a great thought experiment, an attempt to rein
 Frederick II - "He believed he could see clearly that thought is but a consequence of the organization of the machine, and that the disturbance of the springs has considerable influence on that part of us which the metaphysicians call the soul."
 #humans-and-machines #consequences 
 
- 
+"What do we know of our destiny," La Mettrie write, "any more than of our origin?" Human beings, being machines, must accept their "invincible ignorance." He who did so would "wise, just, and tranquil about his fate, and consequently, happy. He will await death neither fearing nor desiring it." Such a creature would cherish life, be "full of respect for Nature; full of gratitude, attachment and tenderness." He would be grateful to partake in the "charming Spectacle of the Universe."
+#destiny #tranquility #life-and-death #nature 
 
+Diderot - "there is only one virtue, justice; one duty, to be happy; one corollary, to overrate life, and not to fear death."
+#life-and-death #joy 
 
+The problem of fragmentation: a dissolution of the human self into the material continuum of nature. If we and the world are all made of a single kind of matter diversely configured, how do we know where one ends and the next begins? Perhaps everything in the material world constitutes just "one great individual." In any machine or animal one can give separate names to the separate parts, Diderot suggested, but that does not make each of these and individual entity. It may make no more sense to identify a person than a bird's wing as an individual.
+#individuality #self-and-other #holistic 
 
+Indeed, the nerves of a human being, even those of a philosopher, are but "sensitive vibrating strings," so that the difference between "the philosopher-instrument and the clavichord-instrument" is just the grater sensitivity of the philosopher-instrument and its ability to play itself. 
+#self-awareness #reflexive-praxis 
+
+Diderot's "Julie de Lespinasse" character imagines a spider at the center of a web to represent these twin hazards of dissolution and solipsism: losing oneself in the world and losing the world in oneself.
+#self 
+
+Without a self, it cannot understand that there is a world outside.
+
+Buffon - When the freeze brought him "perfumes that caused in me an intimate blossoming", these inspired "a sentiment of love for myself."
+
+The defining capacities of a human being, then, according to Buffon's table, were first self-love and second love of others, both residing in the physical manifestiation of touch: the mechanical impact of the creature's parts against one another and against an alien world.
+#the-senses 
+
+In other words, like Buffon and many others in this period, Rousseau was ambivalent and inconsistence on the subject of human selfhood and bodily machinery. Sometimes, he defined a human self by its contrast with mechanism, and at other times, he made selfhood a product of the functioning of the body-machine. 
+
+To Buffon, however, as Liebniz had said, a living creature was an organized conglomeration of organized beings, organization all the way down, with an inner self-organizing agency acting at every level. 
+#agency 
+
+"Of all the modifications of nature," Bonnet mused, "the most excellent is organization".
+#nature #organisation 
+
+Authors of the concept of "organization" generally avoided building metaphors, blocks and stones, in favor of another sort of image: weaving. A living being was not like a wall built of bricks, but rather like a self-moving loom of self-weaving fabric. Bonnet described organized bodies both as "looms" that assimilated and incorporated materials into themselves and also as "cloths, networks, sort of fabrice in which the warp itself forms the woof." Eahc fiber, each "fibrilla", of these loom/fabrics was itself a miniature machine and the "entire machine is in a sense nothing but a repetition of all the machinelets". In fact, an organized body was at once the loom and the fabric, weaving itself such that its parts were themselves self-weaving looms, the whole in constant flux, never remaining the same for a single instant [...] The organic self-weaving agency of living beings extended beyond the individual into its living environment. Bonnet emphasizes that organisims wove themselves from the world around them. Each organized body was a burgeoning mix of all the others. Each was "a little earth, where I perceive in miniature all the species of plants and animals." [...] The each itself, with its air and water and soil, appeared to Bonnet as "but a mass of seeds, a vast organic whole."
+#metaphor 
+
+A living, sentient cosmos thrumming with feeling traveled arm in arm with Mr. Machine, a further effect of eliminating Descartes's disjuncture between mechanism and self, self and world.
+#sentience #cognition
+
+La Mettrie - "Having made, without seeing, eyes that see, [nature] made, without thinking, a machine that thinks."
+#creativity 
+
+A remarkable intimacy between poetry and science characterized the Romantic movement.
+#multidisciplinary-teams #poetry 
+
+Kant is often described as the first modern philosopher, and like Descartes, he worked at the fault line beween the itnellectual self and the mechanical world, which might suggest that this fault line was itself the starting-point for moden philosophy. 
+#philosophy #identity 
+
+Cabanis wrote that the brain was an organ that produced thought just as the stomach digested and the liver filtered bile. 
+
+Rather than contrasting life with nonlife - the inanimate - the Romantics set life up against death. What was not alive was dead.
+#life-and-death #duality 
+
+Life was the struggle against extinction, "the sum of the functions that resist death" (Marie-François-Xavier Bichat)
+
+Easmus Darwin: "Organic forms with chemic changes strive,/ Live but to die, and die but to revive."
+
+Not only life but also consciousness and sentience were forms of dynamic participation in the greater life and sentience of nature itself.
+
+Erasmus Darwin: "And what if all of animated nature / Be but organic Harps diversely framed, / That tremble into thought, as o'er them sweeps / Plastic and vast, one intellectual breeze"
+
+The second development was the idea of a kind of transcendence through evergy: the idea that organisms, understood as living machines, were connected through a great web of energy exchange to the cosmos itself. This was an attempt to rescue Frankenstein's monster, made of dead matter, from his terrible isolation without granting him a soul. 
+#soul #spirit 
+
+Like the Romantics, Darwin was deeply though fruitfully torn between the mechanist dictate to banish agency from nature and the organicist impulse to naturalize agency, the make agency synonymous with life. His conflicting intellectual inheritances and allegiance put him in a state of profound and extraordinarily productive ambivalence.
+#cognition #decision-making 
+
+Animals (especially female animals) were continually shaping and reshaping the world of living beings in accordance with theirh own standards of beauty and worth.
+#beauty 
+
+Huxley: "we are conscious automata"
+
+The concept of fitness retained a ghostly aura of the divine Engineer.
+#religion 
+
+Cybernatics was a new field of research and engineering that emerged fully in the wake of WW2, with beginnings stretching back to the late 1910s and '20s. It was devoted to pursuing analogies between living creatures and machines, especially robots. In pursuit of these analogies, the cyberneticists developed new mechanical systems, and also new ways of understanding mechanism, surrounding the key concepts of feedback and self-regulation. #cybernetics 
+
+The czech word robota, which means "drugery" or "servitude". Robotniz is Czech for "self", and the word "robot" in both German and English, before it came to mean robot, referred to a kind of serf specific to central Europe. #linguistic-relativity 
+
+It was Wiener who coined the term "cybernetics" to describe the unified science of homeostatic atifical and organic machinery. Automata, "whether in the metal or in the flesh", must enact a continual exchange with the outside world, and between machine or organisim and environment."
+
+"All purposeful behaviour," the authors maintained, "may be considered to require negative feedback. If the goal is to be attained, some signals from the goal are necessary at some point to direct the behaviour."
+#feedback 
+
+Overall, the Homeostat did one things and one thing only, as Ashby himself observed, although he maintained that it did it in "many interesting and intricate ways": it moved "to a state of equilibrium." Its sole purpose and only function was to lapse into inactivity, a curious model for the essence of life and thought. 
+#stasis
+
+Turing: infallibility was no requirement for human intelligence. On the contrary, one could make very intelligent and interesting mistakes; indeed, human intelligence developed precisely through such mistakes. 
+
+In other words, intelligence was in the eye of the beholder, unless it was in the private experience of the intelligent being, where it was accessiblt to science. 
+
+Both Turing and the cyberneticists described intelligence as a diachronic phenomenon, occuring in time through learning.
+#learning #growth #time 
+
+The history of these competing forms of science is profoundly relevant to current debates in artificial intelligence, cognitive science, and evolutionary biology.
+
+Marvin Minsky: "there exists, inside your brain, a society of different minds"
+#social-networks #multiplicity 
+
+If computers are intentional, they are so only in virtue of their creators' intentions.
+
+What makes a device or creature smart is not the stuff from which is it made, but the "truth-preserving" arrangements of parts, which in turn stand for elements of the world outside. 
+
+It is often more telling to examine what the two sides of a debate tacitly agree upon than what separates them.
+
+To get beyond the confines of brute mechanism, Schrodinger urged,  "scientific attitude would have to be rebuilt, science must be made anew."
