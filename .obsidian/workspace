@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Medical Ethics, a very short introduction.md",
+            "file": "Aching God.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medical Ethics, a very short introduction.md",
+                "file": "Aching God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
     "Untitled.md",
+    "Medical Ethics, a very short introduction.md",
     "The Product Is Docs, Writing technical documentation in a product development group.md",
     "Clean Code.md",
     "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md",
@@ -96,7 +97,6 @@
     "Practical Guide to Information Architecture.md",
     "Algorithms to Live By the computer science of human decision.md",
     "The Wheel of Time, The Eye of the World.md",
-    "The Restless Clock.md",
-    "CEO origin, job mobility, and post-succession performance, PhD thesis.md"
+    "The Restless Clock.md"
   ]
 }
