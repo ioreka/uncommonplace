@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aching God.md",
+            "file": "Star Trek.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aching God.md",
+                "file": "Star Trek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
     "Untitled.md",
+    "Aching God.md",
     "Medical Ethics, a very short introduction.md",
     "The Product Is Docs, Writing technical documentation in a product development group.md",
     "Clean Code.md",
@@ -96,7 +97,6 @@
     "Team Topologies, organizing business and technology teams for fast flow.md",
     "Practical Guide to Information Architecture.md",
     "Algorithms to Live By the computer science of human decision.md",
-    "The Wheel of Time, The Eye of the World.md",
-    "The Restless Clock.md"
+    "The Wheel of Time, The Eye of the World.md"
   ]
 }
