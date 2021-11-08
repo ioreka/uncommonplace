@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Star Trek.md",
+            "file": "Sin Eater.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "people business",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 269
   },
   "right": {
     "id": "cfa8bf37feff88c4",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Trek.md",
+                "file": "Sin Eater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "Untitled.md",
     "Aching God.md",
-    "Medical Ethics, a very short introduction.md",
     "The Product Is Docs, Writing technical documentation in a product development group.md",
+    "An Elegant Puzzle, Systems of Engineering Management.md",
+    "Medical Ethics, a very short introduction.md",
     "Clean Code.md",
     "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md",
     "Team Topologies, organizing business and technology teams for fast flow.md",
     "Practical Guide to Information Architecture.md",
-    "Algorithms to Live By the computer science of human decision.md",
-    "The Wheel of Time, The Eye of the World.md"
+    "Algorithms to Live By the computer science of human decision.md"
   ]
 }

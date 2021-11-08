@@ -17,9 +17,11 @@ I want to live, however briefly, knowing that my life is finite. Mortality gives
 #life-and-death #love #peace #friendship #meaningfulness #androids 
 
 I never knew what a friend was until I met Geordi. He spoke to me as though I were human. He treated me no differently from anyone else. He accepted me for what I am. And that, I have learned, is friendship. But I do not know how to say goodbye. - Data
-#grief 
+#grief #friendship 
 
 It is the struggle itself that is most important. We must strive to be more than we are. It does not matter that we will never reach our ultimate goal. The effort yields its own rewards. - Data
-#trying-or-attempting 
+#trying-or-attempting #humans-and-machines
 
 I would gladly risk feeling bad at times, if it also meant that I could taste my dessert. - Data
+
+Without the darkness, how would we recognize the light? Do not fear your negative thoughts. They are part of you. They are a part of every living being - even Vulcans. - Tuvok #darkness #emotion 
