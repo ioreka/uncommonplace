@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sin Eater.md",
+            "file": "Human Powered, supercharge your digital product teams with emotional intelligence.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin Eater.md",
+                "file": "Human Powered, supercharge your digital product teams with emotional intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Human Powered, supercharge your digital product teams with emotional intelligence.md",
+    "Sin Eater.md",
     "Aching God.md",
     "The Product Is Docs, Writing technical documentation in a product development group.md",
     "An Elegant Puzzle, Systems of Engineering Management.md",
@@ -96,7 +97,6 @@
     "Clean Code.md",
     "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md",
     "Team Topologies, organizing business and technology teams for fast flow.md",
-    "Practical Guide to Information Architecture.md",
-    "Algorithms to Live By the computer science of human decision.md"
+    "Practical Guide to Information Architecture.md"
   ]
 }
