@@ -22,6 +22,7 @@ The PLEASE framework harnesses the power of conflict to come up with amazing out
 #core-beliefs #frameworks #practice
 
 Keep your written message short and simple (the longer it is, the more likely it will be misinterpreted). For example: ‘I feel like we’re not working together as well as we could. Can we get together to chat about this? I’m keen to hear your perspective and for us to work out the best way forward.’
+#non-verbal-communication 
 
 Often, you’re not truly listening when another person is talking. You’re hearing what’s being said, processing the words, placing your own interpretation onto the message and then working out your response. Once you’ve worked out how you’d like to respond, the other person might as well stop talking because you’re not listening anymore. You’re just waiting for a pause so you can say what you want to say, or you might not be able to wait so you just interrupt (especially if you think what they’re saying is incorrect).
 #listening #linguistics #communication #dialogue 
