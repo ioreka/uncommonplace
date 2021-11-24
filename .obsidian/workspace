@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dune.md",
+            "file": "Idols Fall.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dune.md",
+                "file": "Idols Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Idols Fall.md",
     "Dune.md",
     "Human Powered, supercharge your digital product teams with emotional intelligence.md",
     "Sin Eater.md",
@@ -96,7 +97,6 @@
     "An Elegant Puzzle, Systems of Engineering Management.md",
     "Medical Ethics, a very short introduction.md",
     "Clean Code.md",
-    "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md",
-    "Team Topologies, organizing business and technology teams for fast flow.md"
+    "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md"
   ]
 }
