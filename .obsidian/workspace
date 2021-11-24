@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Idols Fall.md",
+            "file": "Docs for Developers.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idols Fall.md",
+                "file": "Docs for Developers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Docs for Developers.md",
     "Idols Fall.md",
     "Dune.md",
     "Human Powered, supercharge your digital product teams with emotional intelligence.md",
@@ -96,7 +97,6 @@
     "The Product Is Docs, Writing technical documentation in a product development group.md",
     "An Elegant Puzzle, Systems of Engineering Management.md",
     "Medical Ethics, a very short introduction.md",
-    "Clean Code.md",
-    "The Digital Doctor, Hope, Hype and Harm at the Dawn of Medicine’s Computer Age.md"
+    "Clean Code.md"
   ]
 }
