@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Docs for Developers.md",
+            "file": "House of MAny Ways.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "people business",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs for Developers.md",
+                "file": "House of MAny Ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "House of MAny Ways.md",
+    "The View from the Cheap Seats.md",
+    "Team Topologies, organizing business and technology teams for fast flow.md",
+    "Dr Kai-Fu Lee.md",
     "Docs for Developers.md",
     "Idols Fall.md",
     "Dune.md",
     "Human Powered, supercharge your digital product teams with emotional intelligence.md",
     "Sin Eater.md",
-    "Aching God.md",
-    "The Product Is Docs, Writing technical documentation in a product development group.md",
-    "An Elegant Puzzle, Systems of Engineering Management.md",
-    "Medical Ethics, a very short introduction.md",
-    "Clean Code.md"
+    "Aching God.md"
   ]
 }
