@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The View from the Cheap Seats.md",
+            "file": "Hyperion.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#curiosity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The View from the Cheap Seats.md",
+                "file": "Hyperion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Hyperion.md",
     "The View from the Cheap Seats.md",
-    "Untitled.md",
     "The Wise Man's Fear.md",
     "The Wisdom of No Escape And the Path of Loving Kindness.md",
     "The Wheel of Time, The Eye of the World.md",
