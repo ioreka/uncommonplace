@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "House of MAny Ways.md",
+            "file": "The View from the Cheap Seats.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House of MAny Ways.md",
+                "file": "The View from the Cheap Seats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
-    "House of MAny Ways.md",
     "The View from the Cheap Seats.md",
+    "Untitled.md",
+    "The Wise Man's Fear.md",
+    "The Wisdom of No Escape And the Path of Loving Kindness.md",
+    "The Wheel of Time, The Eye of the World.md",
+    "The Two Towers.md",
+    "House of MAny Ways.md",
     "Team Topologies, organizing business and technology teams for fast flow.md",
     "Dr Kai-Fu Lee.md",
-    "Docs for Developers.md",
-    "Idols Fall.md",
-    "Dune.md",
-    "Human Powered, supercharge your digital product teams with emotional intelligence.md",
-    "Sin Eater.md",
-    "Aching God.md"
+    "Docs for Developers.md"
   ]
 }
