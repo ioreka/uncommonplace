@@ -53,3 +53,6 @@ no book or poem is ever finished, merely abandoned.
 
 For those who do not write and who never have been stirred by the creative urge, talk of muses seems a figure of speech, a quaint conceit, but for those of us who live by the Word, our muses are as real and necessary as the soft clay of language which they help to sculpt. When one is writing – really writing – it is as if one is given a fatline to the gods. No true poet has been able to explain the exhilaration one feels when the mind becomes an instrument as surely as does the pen or thought processor, ordering and expressing the revelations flowing in from somewhere else.
 #inspiration #writing 
+
+She had always felt that the essence of human experience lay not primarily in the peak experiences, the wedding days and triumphs which stood out in the memory like dates circled in red on old calendars, but, rather, in the unselfconscious flow of little things – the weekend afternoon with each member of the family engaged in his or her own pursuit, their crossings and connections casual, dialogues imminently forgettable, but the sum of such hours creating a synergy which was important and eternal.
+#the-lived-experience #meaningfulness #connection #parts-and-whole 
