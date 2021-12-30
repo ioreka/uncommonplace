@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hyperion.md",
+            "file": "Jurassic Park.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyperion.md",
+                "file": "Jurassic Park.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Jurassic Park.md",
+    "Star Trek.md",
     "Hyperion.md",
     "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "Living Documentation, continuous knowledge sharing by design.md",
@@ -95,8 +97,6 @@
     "The Wise Man's Fear.md",
     "The Wisdom of No Escape And the Path of Loving Kindness.md",
     "The Wheel of Time, The Eye of the World.md",
-    "The Two Towers.md",
-    "House of MAny Ways.md",
-    "Team Topologies, organizing business and technology teams for fast flow.md"
+    "The Two Towers.md"
   ]
 }

@@ -25,3 +25,5 @@ It is the struggle itself that is most important. We must strive to be more than
 I would gladly risk feeling bad at times, if it also meant that I could taste my dessert. - Data
 
 Without the darkness, how would we recognize the light? Do not fear your negative thoughts. They are part of you. They are a part of every living being - even Vulcans. - Tuvok #darkness #emotion 
+
+Commander, I don't think you can analyze love. It's the greatest mystery of all. No one knows why it happens, or doesn't. Love is a chance combination of elements. Any one thing might be enough to keep it from igniting - a mood, a glance... a remark. And if we could define love, predict it - it would probably lose its power. - Neelix #love 
