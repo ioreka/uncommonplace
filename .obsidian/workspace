@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jurassic Park.md",
+            "file": "Binti.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jurassic Park.md",
+                "file": "Binti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Binti.md",
     "Jurassic Park.md",
     "Star Trek.md",
     "Hyperion.md",
@@ -96,7 +97,6 @@
     "The View from the Cheap Seats.md",
     "The Wise Man's Fear.md",
     "The Wisdom of No Escape And the Path of Loving Kindness.md",
-    "The Wheel of Time, The Eye of the World.md",
-    "The Two Towers.md"
+    "The Wheel of Time, The Eye of the World.md"
   ]
 }
