@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coriolanus.md",
+            "file": "Star Trek.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coriolanus.md",
+                "file": "Star Trek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Star Trek.md",
     "Coriolanus.md",
     "Binti.md",
     "Jurassic Park.md",
-    "Star Trek.md",
     "Hyperion.md",
     "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "Living Documentation, continuous knowledge sharing by design.md",

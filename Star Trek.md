@@ -27,3 +27,5 @@ I would gladly risk feeling bad at times, if it also meant that I could taste my
 Without the darkness, how would we recognize the light? Do not fear your negative thoughts. They are part of you. They are a part of every living being - even Vulcans. - Tuvok #darkness #emotion 
 
 Commander, I don't think you can analyze love. It's the greatest mystery of all. No one knows why it happens, or doesn't. Love is a chance combination of elements. Any one thing might be enough to keep it from igniting - a mood, a glance... a remark. And if we could define love, predict it - it would probably lose its power. - Neelix #love 
+
+Three books and ten reports is impressive, but quantity is less relevant than quality. You must be able to interpret the data and enjoy the process. Regardless, you require activities other than assimilating books and reports. A game of Kadis-kot, for example. - Seven of Nine #pursuit-of-knowledge #data #reading 
