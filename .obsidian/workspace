@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Binti.md",
+            "file": "Coriolanus.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binti.md",
+                "file": "Coriolanus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Coriolanus.md",
     "Binti.md",
     "Jurassic Park.md",
     "Star Trek.md",
@@ -96,7 +97,6 @@
     "Living Documentation, continuous knowledge sharing by design.md",
     "The View from the Cheap Seats.md",
     "The Wise Man's Fear.md",
-    "The Wisdom of No Escape And the Path of Loving Kindness.md",
-    "The Wheel of Time, The Eye of the World.md"
+    "The Wisdom of No Escape And the Path of Loving Kindness.md"
   ]
 }
