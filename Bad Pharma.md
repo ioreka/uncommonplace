@@ -19,7 +19,7 @@ This means changing the behaviour of academic journals, and here we are faced wi
 #communication #science
 
 It’s naive, perhaps, to expect consistency from a drug company, but \[...\] it’s clear that industry utterances are driven by the maximum they can get away with in each territory, rather than any consistent review of the evidence. 
-#naivety #justic
+#naivety #justice
 
 \[the\] ethical question: trial participants are supposed to come from the population of people who could realistically benefit from the answers provided by that trial. If participants are the uninsured, and the drugs are only available to the insured, then that is clearly not the case. 
 #ethics

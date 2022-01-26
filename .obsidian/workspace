@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Star Trek.md",
+            "file": "Natives, Race and class in the ruins of empire.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#curiosity",
+                "query": "#justic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Trek.md",
+                "file": "Natives, Race and class in the ruins of empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Natives, Race and class in the ruins of empire.md",
+    "Bad Pharma.md",
     "Star Trek.md",
     "Coriolanus.md",
     "Binti.md",
@@ -95,8 +97,6 @@
     "Hyperion.md",
     "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "Living Documentation, continuous knowledge sharing by design.md",
-    "The View from the Cheap Seats.md",
-    "The Wise Man's Fear.md",
-    "The Wisdom of No Escape And the Path of Loving Kindness.md"
+    "The View from the Cheap Seats.md"
   ]
 }
