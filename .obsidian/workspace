@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Natives, Race and class in the ruins of empire.md",
+            "file": "Star Trek.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natives, Race and class in the ruins of empire.md",
+                "file": "Star Trek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Star Trek.md",
+    "Individuals.md",
+    "Untitled.md",
+    "Adrift, A Secret Life of London's Waterways.md",
+    "Michael Simmons.md",
+    "Natalie Nzeyimana.md",
     "Natives, Race and class in the ruins of empire.md",
     "Bad Pharma.md",
-    "Star Trek.md",
     "Coriolanus.md",
-    "Binti.md",
-    "Jurassic Park.md",
-    "Hyperion.md",
-    "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
-    "Living Documentation, continuous knowledge sharing by design.md",
-    "The View from the Cheap Seats.md"
+    "Binti.md"
   ]
 }

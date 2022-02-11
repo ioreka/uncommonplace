@@ -29,3 +29,5 @@ Without the darkness, how would we recognize the light? Do not fear your negativ
 Commander, I don't think you can analyze love. It's the greatest mystery of all. No one knows why it happens, or doesn't. Love is a chance combination of elements. Any one thing might be enough to keep it from igniting - a mood, a glance... a remark. And if we could define love, predict it - it would probably lose its power. - Neelix #love 
 
 Three books and ten reports is impressive, but quantity is less relevant than quality. You must be able to interpret the data and enjoy the process. Regardless, you require activities other than assimilating books and reports. A game of Kadis-kot, for example. - Seven of Nine #pursuit-of-knowledge #data #reading 
+
+It is possible to commit no mistakes and still lose. That is not a weakness. That is life. Captain Picard #losing #mistakes

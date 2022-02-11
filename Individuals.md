@@ -337,4 +337,5 @@ There are two ways of spreading light: to be the candle or the mirror that refle
 
 i think one of the most important things for beginner developers to do is to ask for help all the time whenever they need it - adam juraszek
 
-It is possible to commit no mistakes and still lose. That is not a weakness. That is life. #captain-picard #losing #mistakes
+“Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.” — Danny Thorpe, Software Engineer and major contributor to the Delphi programming language 
+#design #architecture #preparation #exploration 
