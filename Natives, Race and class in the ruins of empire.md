@@ -61,3 +61,37 @@ An identity that says ‘I am, because you are not’ is what Hegel was talking 
 
 If mixed-race-looking Malcolm X or Angela Davis were born in Jamaica, they would have been ‘uptown people’, and thus had an entirely different life experience than the one they had in America, based simply on the different perceptions of the very same colours in different places.
 #the-lived-experience #perception #social-constructs 
+
+power concedes nothing without demand or motive
+#power #motivation 
+
+In fact, you’d be hard pressed to find prominent intellectuals from any of Britain’s non-white former colonies, or Ireland, who are both respected in their native lands and who share Britain’s romantic and fond memories of its empire.
+#UK #colonialism #empire #perception #relative-correctness 
+
+The destruction of historical memory is not limited to documents – while Britain has preserved the HMS Victory as a tribute to Nelson, as well as other ships from key periods of British history, not a single slave ship survives.
+#memory #documentation #slavery
+
+Liberal apologists for empire are nothing but glorified cheerleaders for the current powers and status quo, who on the one hand bemoan the moralism of critics of empire, yet simultaneously claim that what made the British Empire superior to all others in the world’s history was its apparently enlightened morals.
+#power #status-quo #superiority #morals 
+
+The question we should ask today is not ‘were we as bad as the Germans?’ But rather, is it possible to critically and honestly reflect on Britain’s history in an attempt to build a more ethical future? Can Britain ever behave in the world like the democracy it claims to be, or is such a thing entirely impossible? Is it more important to cling on to power and prestige and outdated Victorian notions of dominance and superiority even if such a tendency may well help to accelerate another World War and helps cause unspeakable suffering globally? 59 per cent of Britons apparently think it is more important, and their prophets cannot even begin to imagine a world without empires and, you know what, it’s entirely possible that they will be proved right. One could quite reasonably argue based on world history that brutality, corruption, duplicity and aggression are actually good politics and the public just need to ‘grow up’ and accept that, but that is an entirely different conversation than pretending that British imperialism was and is motivated by a higher morality.
+#morality #progress #ethics #politics #growth 
+
+The degree to which humans have secured a more just world has been born out of the struggles against empires as much as anything else.
+#growth #justice #hegelian-dialectic
+
+There is intelligence in rebellion, they are just channelling it in the wrong direction.
+
+the class system is so entrenched in Britain that even a person’s accent carries with it implications about their social background.
+#linguistics #class #phonology #social-constructs #sociolinguistics
+
+while black Americans are far more likely to be incarcerated than black Brits because America locks up its population in general at far higher rates than Britain, black Britons are seven to nine times more likely – the data fluctuates – to go to prison than their white co-citizens, and they are treated more harshly at every stage of the criminal justice system in the UK.
+#justice #racism #data 
+
+The fact that yellow-on-yellow crime, mixed race-on-mixed race crime or white-on-white violence just sound like joke terms but black on black violence has ‘credibility’ speaks very loudly about the perceived relationship between blackness and depravity in this culture.
+#sociolinguistics #social-constructs #racism 
+
+I think whiteness has functioned quite similarly to divine kingship, paralysing those who are intensely invested, trapping them into a resentment of the reality that they are obviously not superior.
+#the-divine #superiority #racism #social-capital #social-constructs 
+
+This constant articulation of supremacy and victimhood has long been a cornerstone of white-supremacist discourse.
