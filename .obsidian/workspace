@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Checklist Manifesto, how to get things right.md",
+            "file": "Compost.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Checklist Manifesto, how to get things right.md",
+                "file": "Compost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Compost.md",
     "The Checklist Manifesto, how to get things right.md",
     "Natives, Race and class in the ruins of empire.md",
     "Admissions, A Life In Brain Surgery.md",
@@ -96,7 +97,6 @@
     "Star Trek.md",
     "Individuals.md",
     "Adrift, A Secret Life of London's Waterways.md",
-    "Michael Simmons.md",
-    "Natalie Nzeyimana.md"
+    "Michael Simmons.md"
   ]
 }
