@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Warcraft, Lord of the Clans.md",
+            "file": "Individuals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warcraft, Lord of the Clans.md",
+                "file": "Individuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Individuals.md",
+    "Being Mortal.md",
+    "Becoming A Magician.md",
+    "Adrift, A Secret Life of London's Waterways.md",
     "Warcraft, Lord of the Clans.md",
     "Compost.md",
     "The Checklist Manifesto, how to get things right.md",
     "Natives, Race and class in the ruins of empire.md",
     "Admissions, A Life In Brain Surgery.md",
-    "Sean O'Casey.md",
-    "Ships of Heaven.md",
-    "Star Trek.md",
-    "Individuals.md",
-    "Adrift, A Secret Life of London's Waterways.md"
+    "Sean O'Casey.md"
   ]
 }
