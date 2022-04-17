@@ -31,3 +31,5 @@ Commander, I don't think you can analyze love. It's the greatest mystery of all.
 Three books and ten reports is impressive, but quantity is less relevant than quality. You must be able to interpret the data and enjoy the process. Regardless, you require activities other than assimilating books and reports. A game of Kadis-kot, for example. - Seven of Nine #pursuit-of-knowledge #data #reading 
 
 It is possible to commit no mistakes and still lose. That is not a weakness. That is life. Captain Picard #losing #mistakes
+
+Words define who we are. Officer. Orphan. Widower. Shipmate. But there is no word for the unique agony of uncertainty. Michael Burnham #loss  #grief #uncertainty #friendship #meaningfulness #language 

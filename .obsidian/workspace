@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Individuals.md",
+            "file": "Star Trek.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#justic",
+                "query": "chian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals.md",
+                "file": "Star Trek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Star Trek.md",
+    "An Extra Pair of Hands.md",
+    "Exhalation.md",
     "Individuals.md",
     "Being Mortal.md",
     "Becoming A Magician.md",
     "Adrift, A Secret Life of London's Waterways.md",
     "Warcraft, Lord of the Clans.md",
     "Compost.md",
-    "The Checklist Manifesto, how to get things right.md",
-    "Natives, Race and class in the ruins of empire.md",
-    "Admissions, A Life In Brain Surgery.md",
-    "Sean O'Casey.md"
+    "The Checklist Manifesto, how to get things right.md"
   ]
 }
