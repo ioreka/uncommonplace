@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Star Trek.md",
+            "file": "Skills for Growing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Trek.md",
+                "file": "Skills for Growing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Skills for Growing.md",
     "Star Trek.md",
     "An Extra Pair of Hands.md",
     "Exhalation.md",
@@ -96,7 +97,6 @@
     "Becoming A Magician.md",
     "Adrift, A Secret Life of London's Waterways.md",
     "Warcraft, Lord of the Clans.md",
-    "Compost.md",
-    "The Checklist Manifesto, how to get things right.md"
+    "Compost.md"
   ]
 }

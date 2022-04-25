@@ -33,3 +33,5 @@ Three books and ten reports is impressive, but quantity is less relevant than qu
 It is possible to commit no mistakes and still lose. That is not a weakness. That is life. Captain Picard #losing #mistakes
 
 Words define who we are. Officer. Orphan. Widower. Shipmate. But there is no word for the unique agony of uncertainty. Michael Burnham #loss  #grief #uncertainty #friendship #meaningfulness #language 
+
+Most people will never get a chance to learn what's in their own hearts. If we figure it out, it's often not what we expected, or even what we would have chosen for ourselves. Pike #growth #self #choice 
