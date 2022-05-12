@@ -39,3 +39,7 @@ Most people will never get a chance to learn what's in their own hearts. If we f
 Cake is eternal. Michael Burnham #cake
 
 What I feel for you belongs to you alone. Michael Burnham #love
+
+"In a very real sense, we are all aliens on a strange planet. We spend most of our lives trying to reach out and communicate. If during our lifetime we could reach out and really communicate with just two people, we are indeed very fortunate." Gene Roddenberry #friendship #communication 
+
+"It is the struggle itself that is most important. We must strive to be more than we are. It does not matter that we will not reach our ultimate goal. The effort itself yields its own reward." Gene Roddenberry #growth 
