@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Star Trek.md",
+            "file": "Lord of the Rings The Fellowship of the Ring.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Trek.md",
+                "file": "Lord of the Rings The Fellowship of the Ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "b85807317aed1dec",
   "lastOpenFiles": [
+    "Lord of the Rings The Fellowship of the Ring.md",
+    "Lord of the Rings The Return of the King.md",
     "Star Trek.md",
     "The Checklist Manifesto, how to get things right.md",
     "Skills for Growing.md",
@@ -95,8 +97,6 @@
     "Exhalation.md",
     "Individuals.md",
     "Being Mortal.md",
-    "Becoming A Magician.md",
-    "Adrift, A Secret Life of London's Waterways.md",
-    "Warcraft, Lord of the Clans.md"
+    "Becoming A Magician.md"
   ]
 }
