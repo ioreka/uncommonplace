@@ -43,3 +43,9 @@ What I feel for you belongs to you alone. Michael Burnham #love
 "In a very real sense, we are all aliens on a strange planet. We spend most of our lives trying to reach out and communicate. If during our lifetime we could reach out and really communicate with just two people, we are indeed very fortunate." Gene Roddenberry #friendship #communication 
 
 "It is the struggle itself that is most important. We must strive to be more than we are. It does not matter that we will not reach our ultimate goal. The effort itself yields its own reward." Gene Roddenberry #growth 
+
+In times of crisis, people need to know that their leaders are not rattled by uncertainty or overwhelming odds. They need to know that there is a plan, that they'll be okay. Michael Burnham #leadership #uncertainty 
+
+Love always ends in grief, but we can't let the pain do this to us. Book #love #grief 
+
+I have come to believe the limits that I place upon myself do not protect me so much as dull the brightness of my days. Saru #growth #exploration 
