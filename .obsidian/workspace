@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Love and Other Thought Experiments.md",
+            "file": "Ask Your Developer.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Love and Other Thought Experiments.md",
+                "file": "Ask Your Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "281c1b11cd5ef665",
   "lastOpenFiles": [
+    "Ask Your Developer.md",
     "Love and Other Thought Experiments.md",
     "Individuals.md",
     "Skills for Growing.md",
@@ -96,7 +97,6 @@
     "Star Trek.md",
     "Lord of the Rings The Fellowship of the Ring.md",
     "Lord of the Rings The Return of the King.md",
-    "The Checklist Manifesto, how to get things right.md",
-    "An Extra Pair of Hands.md"
+    "The Checklist Manifesto, how to get things right.md"
   ]
 }
