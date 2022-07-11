@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ask Your Developer.md",
+            "file": "Star Trek.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 119
+    "width": 404
   },
   "right": {
     "id": "cfa8bf37feff88c4",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ask Your Developer.md",
+                "file": "Star Trek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "281c1b11cd5ef665",
   "lastOpenFiles": [
+    "Star Trek.md",
+    "Skills for Growing.md",
     "Ask Your Developer.md",
     "Love and Other Thought Experiments.md",
     "Individuals.md",
-    "Skills for Growing.md",
     "Reaper Man.md",
     "Compost.md",
-    "Star Trek.md",
     "Lord of the Rings The Fellowship of the Ring.md",
     "Lord of the Rings The Return of the King.md",
     "The Checklist Manifesto, how to get things right.md"
