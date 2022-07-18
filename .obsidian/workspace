@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Star Trek.md",
+            "file": "Individuals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Trek.md",
+                "file": "Individuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "281c1b11cd5ef665",
   "lastOpenFiles": [
+    "Individuals.md",
     "Star Trek.md",
     "Skills for Growing.md",
     "Ask Your Developer.md",
     "Love and Other Thought Experiments.md",
-    "Individuals.md",
     "Reaper Man.md",
     "Compost.md",
     "Lord of the Rings The Fellowship of the Ring.md",
