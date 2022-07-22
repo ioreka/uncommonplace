@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Individuals.md",
+            "file": "Loneliness, Human Nature and the Need for Social Connection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals.md",
+                "file": "Loneliness, Human Nature and the Need for Social Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "281c1b11cd5ef665",
   "lastOpenFiles": [
+    "Loneliness, Human Nature and the Need for Social Connection.md",
+    "Natalie Nzeyimana.md",
     "Individuals.md",
     "Star Trek.md",
     "Skills for Growing.md",
@@ -95,8 +97,6 @@
     "Love and Other Thought Experiments.md",
     "Reaper Man.md",
     "Compost.md",
-    "Lord of the Rings The Fellowship of the Ring.md",
-    "Lord of the Rings The Return of the King.md",
-    "The Checklist Manifesto, how to get things right.md"
+    "Lord of the Rings The Fellowship of the Ring.md"
   ]
 }
