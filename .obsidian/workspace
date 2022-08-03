@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Loneliness, Human Nature and the Need for Social Connection.md",
-            "mode": "source"
+            "file": "The Two Towers.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "garden",
+                "query": "#learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404
+    "width": 415.5
   },
   "right": {
     "id": "cfa8bf37feff88c4",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loneliness, Human Nature and the Need for Social Connection.md",
+                "file": "The Two Towers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "281c1b11cd5ef665",
   "lastOpenFiles": [
-    "Loneliness, Human Nature and the Need for Social Connection.md",
-    "Natalie Nzeyimana.md",
-    "Individuals.md",
-    "Star Trek.md",
-    "Skills for Growing.md",
+    "Woman on the Edge of Time.md",
+    "Where There’s a Will.md",
+    "The Restless Clock.md",
+    "Modern Technical Writing.md",
+    "Making Stuff & Doing Things DIY Guides to Just About Everything.md",
+    "Living Documentation, continuous knowledge sharing by design.md",
+    "Inspired, How to create tech products customers love.md",
+    "CEO origin, job mobility, and post-succession performance, PhD thesis.md",
     "Ask Your Developer.md",
-    "Love and Other Thought Experiments.md",
-    "Reaper Man.md",
-    "Compost.md",
-    "Lord of the Rings The Fellowship of the Ring.md"
+    "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md"
   ]
 }

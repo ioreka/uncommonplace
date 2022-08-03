@@ -7,4 +7,6 @@ What does a scanner see? he asked himself. I mean, really see? Into the head? Do
 #pursuit-of-knowledge  #self 
 
 In this dark world where he now dwelt, ugly things and surprising things and once in a long while a tiny wondrous thing spilled out at him constantly; he could count on nothing.
-#perception
+#perception 
+
+#
