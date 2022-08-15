@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Word for World is Forest.md",
+            "file": "Bottle of Lies, the inside story of the generic drug boom.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Word for World is Forest.md",
+                "file": "Bottle of Lies, the inside story of the generic drug boom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "281c1b11cd5ef665",
   "lastOpenFiles": [
+    "The Word for World is Forest.md",
     "The Two Towers.md",
     "Woman on the Edge of Time.md",
     "Where There’s a Will.md",
@@ -97,7 +98,6 @@
     "Making Stuff & Doing Things DIY Guides to Just About Everything.md",
     "Living Documentation, continuous knowledge sharing by design.md",
     "Inspired, How to create tech products customers love.md",
-    "CEO origin, job mobility, and post-succession performance, PhD thesis.md",
-    "Ask Your Developer.md"
+    "CEO origin, job mobility, and post-succession performance, PhD thesis.md"
   ]
 }
