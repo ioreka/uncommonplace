@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bottle of Lies, the inside story of the generic drug boom.md",
+            "file": "Lilith's Brood.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bottle of Lies, the inside story of the generic drug boom.md",
+                "file": "Lilith's Brood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "281c1b11cd5ef665",
   "lastOpenFiles": [
+    "Winter Vegetables.md",
+    "Bottle of Lies, the inside story of the generic drug boom.md",
     "The Word for World is Forest.md",
     "The Two Towers.md",
     "Woman on the Edge of Time.md",
@@ -96,8 +98,6 @@
     "The Restless Clock.md",
     "Modern Technical Writing.md",
     "Making Stuff & Doing Things DIY Guides to Just About Everything.md",
-    "Living Documentation, continuous knowledge sharing by design.md",
-    "Inspired, How to create tech products customers love.md",
-    "CEO origin, job mobility, and post-succession performance, PhD thesis.md"
+    "Living Documentation, continuous knowledge sharing by design.md"
   ]
 }
