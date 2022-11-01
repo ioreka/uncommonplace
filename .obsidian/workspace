@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Lilith's Brood.md",
+=======
+            "file": "Individuals.md",
+>>>>>>> 337f725 (coding quote)
             "mode": "source",
             "source": false
           }
@@ -40,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#learning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Lilith's Brood.md",
+=======
+                "file": "Individuals.md",
+>>>>>>> 337f725 (coding quote)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +97,7 @@
   },
   "active": "281c1b11cd5ef665",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Winter Vegetables.md",
     "Bottle of Lies, the inside story of the generic drug boom.md",
     "The Word for World is Forest.md",
@@ -99,5 +108,17 @@
     "Modern Technical Writing.md",
     "Making Stuff & Doing Things DIY Guides to Just About Everything.md",
     "Living Documentation, continuous knowledge sharing by design.md"
+=======
+    "The Power of Habit, Why we do what we do and how to change.md",
+    "The View from the Cheap Seats.md",
+    "The Restless Clock.md",
+    "The Product Is Docs, Writing technical documentation in a product development group.md",
+    "Steppenwolf.md",
+    "Living Documentation, continuous knowledge sharing by design.md",
+    "Ask Your Developer.md",
+    "Individuals.md",
+    "Bottle of Lies, the inside story of the generic drug boom.md",
+    "The Word for World is Forest.md"
+>>>>>>> 337f725 (coding quote)
   ]
 }
