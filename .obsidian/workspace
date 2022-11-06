@@ -9,11 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
             "file": "Star Trek.md",
-=======
-            "file": "Medical Ethics, a very short introduction.md",
->>>>>>> 7cf1ba06eb21dd5890b6acc3b74ab3d41f6e7086
             "mode": "source",
             "source": false
           }
@@ -74,11 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Star Trek.md",
-=======
-                "file": "Medical Ethics, a very short introduction.md",
->>>>>>> 7cf1ba06eb21dd5890b6acc3b74ab3d41f6e7086
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +90,6 @@
   },
   "active": "d632a219b106e1ad",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "Lilith's Brood.md",
     "Winter Vegetables.md",
     "Bottle of Lies, the inside story of the generic drug boom.md",
@@ -109,17 +100,5 @@
     "The Restless Clock.md",
     "Modern Technical Writing.md",
     "Making Stuff & Doing Things DIY Guides to Just About Everything.md"
-=======
-    "Me and White Supremacy, How To Check Your White Privilege.md",
-    "Making Stuff & Doing Things DIY Guides to Just About Everything.md",
-    "Lord of the Rings The Return of the King.md",
-    "Lord of the Rings The Fellowship of the Ring.md",
-    "Human Powered, supercharge your digital product teams with emotional intelligence.md",
-    "Individuals.md",
-    "The Power of Habit, Why we do what we do and how to change.md",
-    "The View from the Cheap Seats.md",
-    "The Restless Clock.md",
-    "The Product Is Docs, Writing technical documentation in a product development group.md"
->>>>>>> 7cf1ba06eb21dd5890b6acc3b74ab3d41f6e7086
   ]
 }
