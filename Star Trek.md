@@ -53,3 +53,5 @@ I have come to believe the limits that I place upon myself do not protect me so 
 Pacifism is not passivity. It is the active protection of all living things in the natural universe. Hemmer #nature #peace 
 
 It is better to leave than to be the one left behind. But that's wrong. You create bonds. It's a gift. Of course, the people you care about are going to cause you pain. It will hurt. But the love it yields will far outweigh the sorrow. Hemmer #friendship #gift #love #joy-and-sorrow 
+
+Those who cloak themselves in good deeds are well camouflaged. Waiting for the right climate in which to flourish, spreading fear in the name of righteousness. Picard #good-and-evil #fear 
