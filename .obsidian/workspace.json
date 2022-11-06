@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c09652c433880cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Superintelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A History of Language.md",
+                "file": "Superintelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +144,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4d73ad11fb3ad69",
+  "active": "c09652c433880cf0",
   "lastOpenFiles": [
     "Wyrd Sisters.md",
+    "Superintelligence.md",
     "A History of Language.md",
     "The Apple Source Book.md",
     "One Acre and Security.md",
@@ -142,7 +155,6 @@
     "Star Trek.md",
     "Write The Docs, miscellaneous.md",
     "Binti.md",
-    "Individuals.md",
-    "David Foster Wallace.md"
+    "Individuals.md"
   ]
 }
