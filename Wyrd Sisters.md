@@ -22,7 +22,7 @@ All that ghosts had were thoughts
 Particles of raw inspiration sleet through the universe all the time. Every once in a while one of them hits a receptive mind, which then invents DNA or the flute sonata form or a way of making light bulbs wear out in half the time. But most of them miss. Most people go through their lives without being hit by even one. Some people are even more unfortunate. They get them *all*. 
 #inspiration 
 
-Ninety per cent of true love is acute, ear-burning embarassment. #love 
+Ninety per cent of true love is acute, ear-burning embarassment. #love
 
 Destiny was funny stuff, he knew. You couldn't trust it. Often you couldn't even see it. Just when you knew you had it cornered, it turned out to be something else - coincidence, maybe, or providence. You barred the door against it, and it was standing behind you. Then just when you thought you had or nailed down it walked away with the hammer. #destiny 
 
