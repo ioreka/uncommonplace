@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Star Trek.md",
+                "file": "Binti.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#the-unknown",
+                "query": "tag:#altruism-and-helping-others",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Trek.md",
+                "file": "Binti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
   },
   "active": "281c1b11cd5ef665",
   "lastOpenFiles": [
-    "Sandman.md",
+    "Individuals.md",
     "Star Trek.md",
+    "Sandman.md",
     "David Foster Wallace.md",
     "Lilith's Brood.md",
     "Winter Vegetables.md",
     "Bottle of Lies, the inside story of the generic drug boom.md",
     "The Word for World is Forest.md",
     "The Two Towers.md",
-    "Woman on the Edge of Time.md",
-    "Where There’s a Will.md"
+    "Woman on the Edge of Time.md"
   ]
 }
