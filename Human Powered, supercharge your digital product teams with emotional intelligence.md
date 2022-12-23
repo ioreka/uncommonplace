@@ -1,7 +1,7 @@
 #trenton-moss
 
 Your hard skills will help you get the job in the first place, but your people skills will help you succeed in your role.
-#empathy #qualititative-data 
+#empathy #qualititative-data
 
 If everyone within your business goes on the same journey, then your business as a whole can be transformed. If you’re all able to work well together, leading and inspiring team members and stakeholders across the business, then quality and velocity of team output increases. Off the back of this, happiness and wellbeing improve, which in turn increases staff morale, retention and team stability. This feeds back into quality, and velocity increases to create a virtuous circle.
 #cooperation #work #devops #transformation

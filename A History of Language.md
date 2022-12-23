@@ -28,7 +28,7 @@ Human language was now bound to the land. #nature
 
 An ancient pattern of language survives on each of the world's continents, one that is greatly obscured by a profound time depth.
 
-"Punctuated equilibrium" - borrowing a term from evolutionary biology, this recent model proposes that long periods of social equilibrium in the past experienced diffusion of linguistic features in a given area, causing different languages of that area to converge on a common prototype language. However, occasionally this state of protracted equilibrium would be "punctuated" or disturbed by a sudden change caused by one or more of those external or internal factors mentioned above. This could then increase the number of peoples and split them and their languages, creating "family trees of languages. #biodiversity 
+"Punctuated equilibrium" - borrowing a term from evolutionary biology, this recent model proposes that long periods of social equilibrium in the past experienced diffusion of linguistic features in a given area, causing different languages of that area to converge on a common prototype language. However, occasionally this state of protracted equilibrium would be "punctuated" or disturbed by a sudden change caused by one or more of those external or internal factors mentioned above. This could then increase the number of peoples and split them and their languages, creating "family trees of languages". #biodiversity 
 
 Increasing economic and political power in human society as a rule generates ever larger homogeneous linguistic units which then suppress all smaller ones. This synergistic system grows exponentially until, in the end, only a very limited number of languages and language families survive. This is the linguistic situation in the world today, with a rapidly decreasing number of languages in spite of a population surfeit. Perhaps for this reason, too, it is crucial for us to understanding the teeming linguascape of 10,000 years ago, probably the absolute boundary of linguistic reconstruction: it was the yawning funnel through which the ancestors of all survivng languages once passed.
 
@@ -57,7 +57,7 @@ However imperfect, writing is now an indispensible expression of living speech.
 
 All language growth, decline and change is the result both of time and of a society's strength or weakness.
 
-This global expansion has resulted in the creation of  International Standard English, the world's primary language of bilingual speakers. In numbers of first-language speakers, English is second only to Mandarin Chinese. the internation growth of English has been unparalleled in world history. With the advent of International Standard English, a veritable world language has nearly been achieved for the first time.
+This global expansion has resulted in the creation of  International Standard English, the world's primary language of bilingual speakers. In numbers of first-language speakers, English is second only to Mandarin Chinese. The international growth of English has been unparalleled in world history. With the advent of International Standard English, a veritable world language has nearly been achieved for the first time.
 
 Lexicostatistics - the comparison of 100 (or 200) items of basic or culturally neutral words among related languages. Lexicostatistics holds that core vocabulary always behaves differently from non-core; that word replacement occurs at a constant rate; and that a lexicon or list of words alone can provide information on genetic relationships. 
 

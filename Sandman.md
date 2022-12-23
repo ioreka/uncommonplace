@@ -5,6 +5,6 @@ Perhaps a city is a living thing. Each city has its own personality, after all. 
 
 Our existence deforms the universe. That's responsibility. - Delirium #responsibility #roles-and-responsibilities 
 
-What which is dreamed can never be lost, can never be undreamed. - Master Li #dreams #treasure 
+That which is dreamed can never be lost, can never be undreamed. - Master Li #dreams #treasure 
 
 All Bette's stories have happy endings. That's because she knows where to stop. She's realized the real problem with stories - if you keep them going long enough, they always end in death. #stories #death 

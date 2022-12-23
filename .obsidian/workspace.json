@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "281c1b11cd5ef665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sandman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d2749852bd469ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One Acre and Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0733464905f96d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wyrd Sisters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4d73ad11fb3ad69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A History of Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c09652c433880cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Superintelligence.md",
+                "file": "Team Topologies, organizing business and technology teams for fast flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,16 +23,11 @@
             "id": "53c6846e11c67c1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Promethea.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#altruism-and-helping-others",
+                "query": "tag:#strategy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Promethea.md",
+                "file": "Team Topologies, organizing business and technology teams for fast flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53c6846e11c67c1f",
+  "active": "c09652c433880cf0",
   "lastOpenFiles": [
     "Superintelligence.md",
+    "Living Documentation, continuous knowledge sharing by design.md",
+    "Ask Your Developer.md",
+    "Docs for Developers.md",
+    "An Elegant Puzzle, Systems of Engineering Management.md",
     "Wyrd Sisters.md",
-    "A History of Language.md",
-    "The Apple Source Book.md",
-    "One Acre and Security.md",
-    "Sandman.md",
-    "Star Trek.md",
-    "Write The Docs, miscellaneous.md",
-    "Binti.md",
-    "Individuals.md"
+    "The Word for World is Forest.md",
+    "The View from the Cheap Seats.md",
+    "Convolutions, writing the literary brain.md",
+    "House of Many Ways.md"
   ]
 }

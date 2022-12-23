@@ -26,5 +26,5 @@ He had also come to like the Athsheans' names for their own lands and places, so
 For if it's all the rest of us who are killed by the suicide, it's himself whom the murderer kills; only he has to do it over, and over, and over.
 #suicide 
 
-"Sometimes a god comes," Selver said. "He brings a new way to do a thing, or a new things to be done. A new kind of singing, or a new kind of death. He brings this across the bridge between the dream-time and the world-time. When he has done this, it is done. You cannot take things that exist in the world and try to drive them back into the sream, to hold them inside the dream with walls and pretences. That is insanity. What is, is. There is no use pretending, now, that we do not know how to kill one another."
+"Sometimes a god comes," Selver said. "He brings a new way to do a thing, or a new things to be done. A new kind of singing, or a new kind of death. He brings this across the bridge between the dream-time and the world-time. When he has done this, it is done. You cannot take things that exist in the world and try to drive them back into the dream, to hold them inside the dream with walls and pretences. That is insanity. What is, is. There is no use pretending, now, that we do not know how to kill one another."
 #knowledge #construction-of-reality 

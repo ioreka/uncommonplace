@@ -26,5 +26,5 @@ Ninety per cent of true love is acute, ear-burning embarassment. #love
 
 Destiny was funny stuff, he knew. You couldn't trust it. Often you couldn't even see it. Just when you knew you had it cornered, it turned out to be something else - coincidence, maybe, or providence. You barred the door against it, and it was standing behind you. Then just when you thought you had or nailed down it walked away with the hammer. #destiny 
 
-Granny had never had much time for words. They were so insubstantial. Now she wished that she had found the time. Words were indeed insubstantial. They were as soft as water, but they were also as powerful as water and now they were rushing over the audience, eroding the levess of veracity, and carrying away the past.
+Granny had never had much time for words. They were so insubstantial. Now she wished that she had found the time. Words were indeed insubstantial. They were as soft as water, but they were also as powerful as water and now they were rushing over the audience, eroding the levees of veracity, and carrying away the past.
 #truth #linguistics 
