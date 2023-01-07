@@ -8,12 +8,60 @@
         "type": "tabs",
         "children": [
           {
+            "id": "281c1b11cd5ef665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sandman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d2749852bd469ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One Acre and Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0733464905f96d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wyrd Sisters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4d73ad11fb3ad69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A History of Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c09652c433880cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Team Topologies, organizing business and technology teams for fast flow.md",
+                "file": "Superintelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +71,64 @@
             "id": "53c6846e11c67c1f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Promethea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a712360d844939ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stiff, the curious lives of human cadavers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43525c8c2eadb909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lies My Teacher Told Me, Everything your American History Textbook got wrong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a274fd0a2cfd04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsessive Intrusive Magical Thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebae621822844eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stiff, the curious lives of human cadavers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -56,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#strategy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team Topologies, organizing business and technology teams for fast flow.md",
+                "file": "Obsessive Intrusive Magical Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c09652c433880cf0",
+  "active": "6a274fd0a2cfd04f",
   "lastOpenFiles": [
+    "Lies My Teacher Told Me, Everything your American History Textbook got wrong.md",
+    "Stiff, the curious lives of human cadavers.md",
+    "Untitled 1.md",
+    "Dr Kai-Fu Lee.md",
+    "From Here To Eternity.md",
+    "Promethea.md",
     "Superintelligence.md",
-    "Living Documentation, continuous knowledge sharing by design.md",
-    "Ask Your Developer.md",
-    "Docs for Developers.md",
-    "An Elegant Puzzle, Systems of Engineering Management.md",
     "Wyrd Sisters.md",
-    "The Word for World is Forest.md",
-    "The View from the Cheap Seats.md",
-    "Convolutions, writing the literary brain.md",
-    "House of Many Ways.md"
+    "A History of Language.md",
+    "The Apple Source Book.md"
   ]
 }
