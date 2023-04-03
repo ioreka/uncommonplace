@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "ff5e1cd65207e361",
+        "id": "2926e8c1ba319106",
         "type": "tabs",
         "children": [
           {
-            "id": "3712163f63f1f6f8",
+            "id": "6b9594f79ab046a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills for Growing.md",
+                "file": "A History of Language.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1638d99c1263f722",
+            "id": "bd3ea893299d1fd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weeding Without Chemicals.md",
+                "file": "Systems Thinking for Social Change.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7f71a1fcf4f94596",
+            "id": "0b94f72a7a3fc106",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Sceptical Gardener.md",
+                "file": "Coriolanus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a08f6cfc75093fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Count Zero.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,8 +85,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gardening",
-                "matchingCase": false,
+                "query": "inference",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 384.5
   },
   "right": {
     "id": "cfa8bf37feff88c4",
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Sceptical Gardener.md",
+                "file": "Count Zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,26 +141,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7f71a1fcf4f94596",
+  "active": "a08f6cfc75093fb5",
   "lastOpenFiles": [
-    "The Three Body Problem.md",
-    "The Realization of Star Trek Technologies.md",
+    "Coriolanus.md",
+    "Count Zero.md",
     "Is It Really Green, everyday eco dilemmas answered.md",
-    "How Do Worms Work?.md",
-    "Diary of a Modern Country Gardener.md",
-    "Skills for Growing.md",
-    "The Sceptical Gardener.md",
-    "The Sailor Who Fell from Grace with the Sea.md",
     "Weeding Without Chemicals.md",
-    "Love and Other Thought Experiments.md",
-    "Ask Your Developer.md",
-    "Walled Gardens.md",
-    "Stiff, the curious lives of human cadavers.md",
-    "Obsessive Intrusive Magical Thinking.md",
-    "Lies My Teacher Told Me, Everything your American History Textbook got wrong.md",
-    "Promethea.md",
-    "Superintelligence.md",
-    "A History of Language.md",
-    "Wyrd Sisters.md"
+    "The Sceptical Gardener.md",
+    "Living Documentation, continuous knowledge sharing by design.md",
+    "The Realization of Star Trek Technologies.md",
+    "Star Trek.md",
+    "How Do Worms Work?.md",
+    "The Three Body Problem.md",
+    "Sirens of Titan.md",
+    "Zero to one, notes on startups, or how to build the future.md",
+    "Woman on the Edge of Time.md",
+    "Wanderlust.md"
   ]
 }
