@@ -44,19 +44,31 @@
             }
           },
           {
-            "id": "a08f6cfc75093fb5",
+            "id": "75c0de8e1ca34887",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Count Zero.md",
+                "file": "No Dig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0cfad8bbc8797a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Howls Moving Castle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Count Zero.md",
+                "file": "Howls Moving Castle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +153,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a08f6cfc75093fb5",
+  "active": "d0cfad8bbc8797a1",
   "lastOpenFiles": [
+    "No Dig.md",
+    "Howls Moving Castle.md",
     "Coriolanus.md",
     "Count Zero.md",
     "Is It Really Green, everyday eco dilemmas answered.md",
