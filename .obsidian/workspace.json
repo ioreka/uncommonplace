@@ -8,67 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b9594f79ab046a9",
+            "id": "bf3997e5554f3af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A History of Language.md",
+                "file": "The Man Who Died Twice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bd3ea893299d1fd9",
+            "id": "d0275f8d9f814e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems Thinking for Social Change.md",
+                "file": "Philosophy in the Garden.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b94f72a7a3fc106",
+            "id": "936ebedf62225e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coriolanus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75c0de8e1ca34887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "No Dig.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0cfad8bbc8797a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Howls Moving Castle.md",
+                "file": "When We Cease To Understand The World.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inference",
+                "query": "sorting what",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Howls Moving Castle.md",
+                "file": "When We Cease To Understand The World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,11 +129,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d0cfad8bbc8797a1",
+  "active": "936ebedf62225e9c",
   "lastOpenFiles": [
+    "Philosophy in the Garden.md",
+    "When We Cease To Understand The World.md",
+    "The Man Who Died Twice.md",
+    "Algorithms to Live By the computer science of human decision.md",
     "No Dig.md",
-    "Howls Moving Castle.md",
     "Coriolanus.md",
+    "A History of Language.md",
+    "Systems Thinking for Social Change.md",
+    "Howls Moving Castle.md",
     "Count Zero.md",
     "Is It Really Green, everyday eco dilemmas answered.md",
     "Weeding Without Chemicals.md",
