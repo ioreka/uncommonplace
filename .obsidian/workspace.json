@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eaa356cd63ddc28b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Mushroom at the End of the World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tales of the Tattooed.md",
+                "file": "The Mushroom at the End of the World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,12 +125,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "db01b2beee8581a4",
+  "active": "eaa356cd63ddc28b",
   "lastOpenFiles": [
+    "Tales of the Tattooed.md",
+    "The Mushroom at the End of the World.md",
     "On Friendship.md",
     "Winters Gifts.md",
     "Death and the Penguin.md",
-    "Tales of the Tattooed.md",
     "Promethea.md",
     "Sin Eater.md",
     "Steppenwolf.md",
@@ -138,7 +152,6 @@
     "Singer from the Sea.md",
     "Permanent Record.md",
     "Parable Of The Sower.md",
-    "Obsessive Intrusive Magical Thinking.md",
-    "Nova.md"
+    "Obsessive Intrusive Magical Thinking.md"
   ]
 }

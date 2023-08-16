@@ -12,3 +12,7 @@ For I believe this, and it is the groundwork of my airy edifice - that we seldom
 #dreams #dreaming #sleep 
 
 Since you will have us apart in this world I await another. - Mrs Gordon's Duke
+
+There is an old joke that the only difference between tattooed and non-tattooed people is that tattooed people don't care if you're not tattooed.
+
+Now that Barbie is tattooed, what is there to be offended about? Tattooing is available to everyone.
