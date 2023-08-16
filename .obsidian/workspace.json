@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2926e8c1ba319106",
+        "id": "ecb02afeac35eb6d",
         "type": "tabs",
         "children": [
           {
-            "id": "bf3997e5554f3af5",
+            "id": "db01b2beee8581a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Man Who Died Twice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0275f8d9f814e50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy in the Garden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "936ebedf62225e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "When We Cease To Understand The World.md",
+                "file": "Tales of the Tattooed.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,13 +48,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sorting what",
-                "matchingCase": true,
+                "query": "loyalty",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "9023db12f31b150d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "When We Cease To Understand The World.md",
+                "file": "Tales of the Tattooed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,29 +112,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "936ebedf62225e9c",
+  "active": "db01b2beee8581a4",
   "lastOpenFiles": [
-    "Philosophy in the Garden.md",
-    "When We Cease To Understand The World.md",
-    "The Man Who Died Twice.md",
-    "Algorithms to Live By the computer science of human decision.md",
-    "No Dig.md",
-    "Coriolanus.md",
-    "A History of Language.md",
-    "Systems Thinking for Social Change.md",
-    "Howls Moving Castle.md",
-    "Count Zero.md",
-    "Is It Really Green, everyday eco dilemmas answered.md",
-    "Weeding Without Chemicals.md",
-    "The Sceptical Gardener.md",
-    "Living Documentation, continuous knowledge sharing by design.md",
-    "The Realization of Star Trek Technologies.md",
+    "On Friendship.md",
+    "Winters Gifts.md",
+    "Death and the Penguin.md",
+    "Tales of the Tattooed.md",
+    "Promethea.md",
+    "Sin Eater.md",
+    "Steppenwolf.md",
+    "The Prince.md",
+    "The Black Tides of Heaven.md",
+    "Exhalation.md",
+    "An Elegant Puzzle, Systems of Engineering Management.md",
+    "Love and Other Thought Experiments.md",
+    "Dune.md",
+    "Dementia From The Inside A Doctor’s Personal Journey of Hope.md",
+    "An Extra Pair of Hands.md",
+    "All That Remains, A Life in Death.md",
+    "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
+    "A Slip of the Keyboard, Collected Non-fiction.md",
+    "The Wisdom of No Escape And the Path of Loving Kindness.md",
+    "The Sailor Who Fell from Grace with the Sea.md",
     "Star Trek.md",
-    "How Do Worms Work?.md",
-    "The Three Body Problem.md",
-    "Sirens of Titan.md",
-    "Zero to one, notes on startups, or how to build the future.md",
-    "Woman on the Edge of Time.md",
-    "Wanderlust.md"
+    "Singer from the Sea.md",
+    "Permanent Record.md",
+    "Parable Of The Sower.md",
+    "Obsessive Intrusive Magical Thinking.md",
+    "Nova.md"
   ]
 }
