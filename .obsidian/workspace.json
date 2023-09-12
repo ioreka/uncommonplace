@@ -59,11 +59,14 @@
             "id": "be7c108cf668be07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "And Finally.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -106,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "And Finally.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +158,22 @@
   },
   "active": "be7c108cf668be07",
   "lastOpenFiles": [
-    "Ask Your Developer.md",
+    "Untitled.canvas",
     "And Finally.md",
+    "Winters Gifts.md",
+    "When We Cease To Understand The World.md",
+    "The Stars Are Dark.md",
+    "The Mushroom at the End of the World.md",
+    "The Man Who Died Twice.md",
+    "Tales of the Tattooed.md",
+    "Philosophy in the Garden.md",
+    "No Dig.md",
+    "Howls Moving Castle.md",
+    "Death and the Penguin.md",
+    "Count Zero.md",
+    "Circe.md",
+    "Bad Science.md",
+    "Ask Your Developer.md",
     "Skills for Growing.md",
     "Ethical Business Practice and Regulation.md",
     "The Three Body Problem.md",
@@ -167,15 +183,6 @@
     "Diary of a Modern Country Gardener.md",
     "The Sceptical Gardener.md",
     "The Sailor Who Fell from Grace with the Sea.md",
-    "Weeding Without Chemicals.md",
-    "Love and Other Thought Experiments.md",
-    "Walled Gardens.md",
-    "Stiff, the curious lives of human cadavers.md",
-    "Obsessive Intrusive Magical Thinking.md",
-    "Lies My Teacher Told Me, Everything your American History Textbook got wrong.md",
-    "Promethea.md",
-    "Superintelligence.md",
-    "A History of Language.md",
-    "Wyrd Sisters.md"
+    "Weeding Without Chemicals.md"
   ]
 }

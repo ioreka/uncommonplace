@@ -1,0 +1,4 @@
+#william-gibson 
+
+As she walked from the Louvre, she seemed to sense some articulated structure shifting to accommodate her course through the city. The waiter would be merely a part of the thing, one limb, a delicate probe or palp. The whole would be larger, much larger. How could she have imagined that it would be possible to live, to move, in the unnatural field of Virek's wealth without suffering distortion? Virek had taken her up, in all her misery, and had rotated her through the monstrous, invisible stresses of his money, and she had been changed. Of course, she thought, of course; it moves around me constantly, watchful and invisible, the vast and subtle mechanism, of Herr Virek's surveillance.
+#money #power 
