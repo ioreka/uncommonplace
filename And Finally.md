@@ -69,3 +69,6 @@ According to Stanislas Dehaene, one of the leading researchers in this field, th
 
 The idea that brains and computers are essentially similar leads to all sorts of delightful cyberpunk fantasies about uploading our brains onto computers. And this leads to the further problem of how we could tell whether a computer was conscious or not. This has been a field day for philosophers, who write at great length about these problems, but I struggle to understand them. I cannot escape the feeling that mushc of this is just playing at word games. But nor can I quite escape the fear that I am simply not clever enough to understand philosophy.
 #philosophy #humans-and-machines #consciousness 
+
+In other words, we are allowed to choose to die, but not how, when or where. Only the doctors can decide that. And yet, as the great reforming judge Lord Denning once observed, the illegality of assisted dying in Britain means that it is illegal to help somebody to do something that is not illegal. Surely this is wildly illogical?
+#suicide #healthcare 
