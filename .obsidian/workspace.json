@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fef1ad4ed2920f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S Ship of Theseus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "And Finally.md",
+                "file": "S Ship of Theseus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,10 +165,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "be7c108cf668be07",
+  "active": "fef1ad4ed2920f81",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "And Finally.md",
+    "S Ship of Theseus.md",
+    "Untitled.canvas",
     "Winters Gifts.md",
     "When We Cease To Understand The World.md",
     "The Stars Are Dark.md",
