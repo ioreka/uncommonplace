@@ -1,6 +1,6 @@
 #guy-barter #royal-horticultural-society 
 
-Plants are unlike animals in that they age unevenly. An animal ages uniformly - a tiger's tail is as old as its ears and its liver - but the growing tips of trree shoots and roots can remain young and active, often for centuries, when the main part of the tree is in decline. Trees are also able to compartmentalise damage, an asset that can enable them to survive some serious mishaps, including accidents and the ravages of pests and diseases.
+Plants are unlike animals in that they age unevenly. An animal ages uniformly - a tiger's tail is as old as its ears and its liver - but the growing tips of tree shoots and roots can remain young and active, often for centuries, when the main part of the tree is in decline. Trees are also able to compartmentalise damage, an asset that can enable them to survive some serious mishaps, including accidents and the ravages of pests and diseases.
 #ageing #trees 
 
 Many airborne seeds are tiny; orchid seeds are microscopic, hardly bigger than a speck of dust. 1,000 willow seeds weigh just 0.05g. For comparison, 1,000 rice seeds weigh 27g.
