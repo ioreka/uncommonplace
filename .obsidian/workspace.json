@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb3c9ddc765cad16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Waste Tide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Do Worms Work?.md",
+                "file": "Waste Tide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +210,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e04f4393a42932f0",
+  "active": "eb3c9ddc765cad16",
   "lastOpenFiles": [
+    "How Do Worms Work?.md",
+    "Waste Tide.md",
     "Extra Time, 10 Lessons For Living Longer Better.md",
     "Compost.md",
     "And Finally.md",
@@ -225,8 +239,6 @@
     "Bad Science.md",
     "Ask Your Developer.md",
     "Skills for Growing.md",
-    "Ethical Business Practice and Regulation.md",
-    "The Three Body Problem.md",
-    "The Realization of Star Trek Technologies.md"
+    "Ethical Business Practice and Regulation.md"
   ]
 }
