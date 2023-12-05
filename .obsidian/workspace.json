@@ -184,9 +184,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "920d44a26a05324d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edgedancer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Words of Radiance.md",
+                "file": "Edgedancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,10 +291,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb5a14deec1d4ed1",
+  "active": "920d44a26a05324d",
   "lastOpenFiles": [
-    "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "Words of Radiance.md",
+    "Edgedancer.md",
+    "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "Obsessive Intrusive Magical Thinking.md",
     "An Extra Pair of Hands.md",
     "An Elegant Puzzle, Systems of Engineering Management.md",
@@ -307,7 +320,6 @@
     "Winters Gifts.md",
     "When We Cease To Understand The World.md",
     "The Stars Are Dark.md",
-    "The Mushroom at the End of the World.md",
-    "The Man Who Died Twice.md"
+    "The Mushroom at the End of the World.md"
   ]
 }
