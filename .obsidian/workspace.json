@@ -196,9 +196,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f875c52d9da78ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden Magic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be36fe18105e6d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rebel Gardening, A beginner’s handbook to organic urban gardening.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -264,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edgedancer.md",
+                "file": "Rebel Gardening, A beginner’s handbook to organic urban gardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,10 +315,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "920d44a26a05324d",
+  "active": "be36fe18105e6d20",
   "lastOpenFiles": [
-    "Words of Radiance.md",
+    "Garden Magic.md",
+    "Rebel Gardening, A beginner’s handbook to organic urban gardening.md",
     "Edgedancer.md",
+    "Words of Radiance.md",
     "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "Obsessive Intrusive Magical Thinking.md",
     "An Extra Pair of Hands.md",
@@ -318,8 +344,6 @@
     "S Ship of Theseus.md",
     "Untitled.canvas",
     "Winters Gifts.md",
-    "When We Cease To Understand The World.md",
-    "The Stars Are Dark.md",
-    "The Mushroom at the End of the World.md"
+    "When We Cease To Understand The World.md"
   ]
 }
