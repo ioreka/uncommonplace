@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c81a57d0b722bc69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Story of Crass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reader's Digest, Good Ideas for your Garden.md",
+                "file": "The Story of Crass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +125,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "984ddef1c1be0c32",
+  "active": "c81a57d0b722bc69",
   "lastOpenFiles": [
     "Reader's Digest, Good Ideas for your Garden.md",
+    "The Story of Crass.md",
     "Rebel Gardening, A beginner’s handbook to organic urban gardening.md",
     "Garden Magic.md",
     "Edgedancer.md",
@@ -139,7 +153,6 @@
     "Idols Fall.md",
     "FutureGen, Lessons From A Small Country.md",
     "Extra Time, 10 Lessons For Living Longer Better.md",
-    "Compost.md",
     "Untitled",
     "Untitled.canvas"
   ]
