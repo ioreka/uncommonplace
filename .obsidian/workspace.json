@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ea24af99738d7d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wilding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X Files.md",
+                "file": "Wilding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,10 +149,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "796bc9dcf1520b41",
+  "active": "6ea24af99738d7d0",
   "lastOpenFiles": [
-    "The Story of Crass.md",
     "X Files.md",
+    "Wilding.md",
+    "The Story of Crass.md",
     "Reader's Digest, Good Ideas for your Garden.md",
     "Rebel Gardening, A beginner’s handbook to organic urban gardening.md",
     "Garden Magic.md",
@@ -164,7 +177,6 @@
     "An Elegant Puzzle, Systems of Engineering Management.md",
     "The Checklist Manifesto, how to get things right.md",
     "Idols Fall.md",
-    "FutureGen, Lessons From A Small Country.md",
     "Untitled",
     "Untitled.canvas"
   ]
