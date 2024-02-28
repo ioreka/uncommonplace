@@ -1,7 +1,7 @@
 #edward-hallowell #john-ratey
 
 A deeply, variously connected life is the most enriching gift you can give yourself and your family. Connection comes in many forms.
-#connection #self-awareness #self-improvement #adhd #gift 
+#connection #self-awareness #self-improvement  #adhd #gift 
 
 Whatever you’re wrestling with, take a bow for working so hard to be a better person. In other words, connect with your desire to improve and give yourself credit for trying to do that.
 #family
