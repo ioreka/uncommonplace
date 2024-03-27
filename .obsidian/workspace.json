@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reader's Digest, Good Ideas for your Garden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c81a57d0b722bc69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Story of Crass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "796bc9dcf1520b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X Files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ea24af99738d7d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wilding.md",
+                "file": "Cloud Data Engineering for Dummies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wilding.md",
+                "file": "Cloud Data Engineering for Dummies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,12 +112,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6ea24af99738d7d0",
+  "active": "984ddef1c1be0c32",
   "lastOpenFiles": [
-    "X Files.md",
+    "Reader's Digest, Good Ideas for your Garden.md",
     "Wilding.md",
     "The Story of Crass.md",
-    "Reader's Digest, Good Ideas for your Garden.md",
+    "X Files.md",
     "Rebel Gardening, A beginner’s handbook to organic urban gardening.md",
     "Garden Magic.md",
     "Edgedancer.md",
