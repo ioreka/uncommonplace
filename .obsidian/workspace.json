@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0131bb35eb3b67ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why Women Grow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assassins Apprentice.md",
+                "file": "Why Women Grow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +138,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "296ea11b997174b9",
+  "active": "d632a219b106e1ad",
   "lastOpenFiles": [
-    "Cloud Data Engineering for Dummies.md",
     "Assassins Apprentice.md",
+    "Why Women Grow.md",
+    "Cloud Data Engineering for Dummies.md",
     "Reader's Digest, Good Ideas for your Garden.md",
     "Wilding.md",
     "The Story of Crass.md",
@@ -152,7 +166,6 @@
     "Skills for Growing.md",
     "Obsessive Intrusive Magical Thinking.md",
     "An Extra Pair of Hands.md",
-    "An Elegant Puzzle, Systems of Engineering Management.md",
     "Untitled",
     "Untitled.canvas"
   ]
