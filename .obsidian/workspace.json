@@ -47,16 +47,41 @@
             "id": "6ea24af99738d7d0",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "d6296b3fbc6f9420",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "0f9f294e6ec0e777",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Wilding.md",
+                "file": "A Little Book of Latin for Gardeners.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wilding.md",
+                "file": "A Little Book of Latin for Gardeners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,10 +174,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6ea24af99738d7d0",
+  "active": "0f9f294e6ec0e777",
   "lastOpenFiles": [
-    "X Files.md",
+    "A Little Book of Latin for Gardeners.md",
     "Wilding.md",
+    "X Files.md",
     "The Story of Crass.md",
     "Reader's Digest, Good Ideas for your Garden.md",
     "Rebel Gardening, A beginner’s handbook to organic urban gardening.md",
@@ -176,7 +202,6 @@
     "An Extra Pair of Hands.md",
     "An Elegant Puzzle, Systems of Engineering Management.md",
     "The Checklist Manifesto, how to get things right.md",
-    "Idols Fall.md",
     "Untitled",
     "Untitled.canvas"
   ]
