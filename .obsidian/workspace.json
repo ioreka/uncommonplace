@@ -44,21 +44,6 @@
             }
           },
           {
-            "id": "6ea24af99738d7d0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "d6296b3fbc6f9420",
             "type": "leaf",
             "state": {
@@ -72,16 +57,19 @@
             "id": "0f9f294e6ec0e777",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "A Little Book of Latin for Gardeners.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Little Book of Latin for Gardeners.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +164,11 @@
   },
   "active": "0f9f294e6ec0e777",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "A Little Book of Latin for Gardeners.md",
+    "Why Women Grow.md",
+    "Cloud Data Engineering for Dummies.md",
+    "Assassins Apprentice.md",
     "Wilding.md",
     "X Files.md",
     "The Story of Crass.md",
@@ -198,11 +190,6 @@
     "The Sceptical Gardener.md",
     "Weeding Without Chemicals.md",
     "Skills for Growing.md",
-    "Obsessive Intrusive Magical Thinking.md",
-    "An Extra Pair of Hands.md",
-    "An Elegant Puzzle, Systems of Engineering Management.md",
-    "The Checklist Manifesto, how to get things right.md",
-    "Untitled",
-    "Untitled.canvas"
+    "Untitled"
   ]
 }
