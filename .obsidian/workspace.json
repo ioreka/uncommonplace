@@ -57,19 +57,52 @@
             "id": "0f9f294e6ec0e777",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Assassins Apprentice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0b2f0c862d6719c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Little Book of Latin for Gardeners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9b8124dd90d328a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miss Willmotts Ghosts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2f2cd86ca81dea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Piranesi.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -135,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Piranesi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,10 +195,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0f9f294e6ec0e777",
+  "active": "a2f2cd86ca81dea9",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Miss Willmotts Ghosts.md",
+    "Piranesi.md",
     "A Little Book of Latin for Gardeners.md",
+    "Untitled.canvas",
     "Why Women Grow.md",
     "Cloud Data Engineering for Dummies.md",
     "Assassins Apprentice.md",
@@ -189,7 +224,6 @@
     "Ask Your Developer.md",
     "The Sceptical Gardener.md",
     "Weeding Without Chemicals.md",
-    "Skills for Growing.md",
     "Untitled"
   ]
 }
