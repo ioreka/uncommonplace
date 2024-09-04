@@ -5,3 +5,9 @@ It had intimidated Seven when she first encountered it, but in time she saw the 
 "Societies depend on the good faith of those who govern them more than folks realize. People count on shame to keep bad actors in line. But when someone utterly shameless comes along and just runs roughshod over the law? No one knows what to do." Harper
 
 "I can give you truth or comfort, kid, but you only get one." Harper
+
+Gazing up at the cosmos, it suddenly no longer mattered to Seven how much of space she had seen aboard starships. There was something magical about staring up at the stars from a planet's surface. About feeling the pull of connection to a world beneath one's feet, and the call of eternity from the endless darkness above.
+#eternity #stars #space 
+
+"A Starfleet officer told me once that on Earth there was a saying among firefighters: the greatest act of bravery that firefighters ever perform is when they swear their oaths or service. Everything they do after that is just their duty. In many ways, the same is true of anyone who swears an oath to wear a uniform and serve others." Seven
+
