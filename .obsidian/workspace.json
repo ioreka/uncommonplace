@@ -150,6 +150,18 @@
             }
           },
           {
+            "id": "8a9cb8af06e63c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Rewild, a practical manual from underhill wood nature reserve for one to fifty acres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "78e60c41d83699dd",
             "type": "leaf",
             "state": {
@@ -162,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Trek Picard Firewall.md",
+                "file": "How to Rewild, a practical manual from underhill wood nature reserve for one to fifty acres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,12 +267,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "52946ab26bb31baa",
+  "active": "8a9cb8af06e63c29",
   "lastOpenFiles": [
+    "Star Trek Picard Firewall.md",
+    "How to Rewild, a practical manual from underhill wood nature reserve for one to fifty acres.md",
     "Gardening Myths and Misconceptions.md",
     "Feet of Clay.md",
     "A Little Book of Latin for Gardeners.md",
-    "Star Trek Picard Firewall.md",
     "Godkiller.md",
     "Wyrd Sisters.md",
     "Equal Rites.md",
@@ -283,7 +296,6 @@
     "A Spotters Guide To Countryside Mysteries.md",
     "The Last Of The Hippies.md",
     "Waste Tide.md",
-    "How Do Worms Work?.md",
     "Untitled"
   ]
 }
