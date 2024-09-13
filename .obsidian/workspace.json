@@ -174,6 +174,18 @@
             }
           },
           {
+            "id": "110ffd025ed2294e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Magic Hour.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "78e60c41d83699dd",
             "type": "leaf",
             "state": {
@@ -186,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -253,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forget Me Not, finding the forgotten species of climate change Britain.md",
+                "file": "The Magic Hour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,10 +292,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "665806b15420d8ea",
+  "active": "110ffd025ed2294e",
   "lastOpenFiles": [
-    "How to Rewild, a practical manual from underhill wood nature reserve for one to fifty acres.md",
     "Forget Me Not, finding the forgotten species of climate change Britain.md",
+    "The Magic Hour.md",
+    "How to Rewild, a practical manual from underhill wood nature reserve for one to fifty acres.md",
     "Star Trek Picard Firewall.md",
     "Gardening Myths and Misconceptions.md",
     "Feet of Clay.md",
@@ -308,7 +321,6 @@
     "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "The Science of Gardening.md",
     "A Spotters Guide To Countryside Mysteries.md",
-    "The Last Of The Hippies.md",
     "Untitled"
   ]
 }
