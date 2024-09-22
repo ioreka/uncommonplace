@@ -210,6 +210,30 @@
             }
           },
           {
+            "id": "b7cbc7ffd77a887f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Data Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6610a7afebf2c2d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Science of Storytelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "78e60c41d83699dd",
             "type": "leaf",
             "state": {
@@ -222,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -289,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSPB Spotlight Frogs and Toads.md",
+                "file": "The Science of Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,10 +340,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "36b2815af4b76de5",
+  "active": "6610a7afebf2c2d6",
   "lastOpenFiles": [
-    "Maskerade.md",
+    "Fundamentals of Data Engineering.md",
+    "The Science of Storytelling.md",
     "RSPB Spotlight Frogs and Toads.md",
+    "Maskerade.md",
     "The Magic Hour.md",
     "Forget Me Not, finding the forgotten species of climate change Britain.md",
     "How to Rewild, a practical manual from underhill wood nature reserve for one to fifty acres.md",
@@ -343,8 +369,6 @@
     "Rebel Gardening, A beginner’s handbook to organic urban gardening.md",
     "Garden Magic.md",
     "Edgedancer.md",
-    "Words of Radiance.md",
-    "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "Untitled"
   ]
 }
