@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54957cc9c679ca2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Birds Beasts and Bedlam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Light Eaters.md",
+                "file": "Birds Beasts and Bedlam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +125,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "70e9bc8e29180b02",
+  "active": "54957cc9c679ca2f",
   "lastOpenFiles": [
-    "Becoming A Magician.md",
     "The Light Eaters.md",
+    "Birds Beasts and Bedlam.md",
+    "Becoming A Magician.md",
     "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "Babel.md",
     "Weeds.md",
@@ -140,7 +154,6 @@
     "Cloud Data Engineering for Dummies.md",
     "Assassins Apprentice.md",
     "Wilding.md",
-    "X Files.md",
     "Untitled"
   ]
 }
