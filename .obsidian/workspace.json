@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8b61190769f0b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other Minds, the octopus and the evolution of intelligent life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sopie-pavelle",
+                "query": "oubliette",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Trek.md",
+                "file": "Other Minds, the octopus and the evolution of intelligent life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,11 +137,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "54957cc9c679ca2f",
+  "active": "f8b61190769f0b39",
   "lastOpenFiles": [
+    "Under the Skin, Love Letters to the Body.md",
+    "The Light Eaters.md",
+    "Other Minds, the octopus and the evolution of intelligent life.md",
+    "Star Trek.md",
     "Star Trek Picard Firewall.md",
     "Birds Beasts and Bedlam.md",
-    "The Light Eaters.md",
     "Becoming A Magician.md",
     "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
     "Babel.md",
@@ -151,9 +166,6 @@
     "Miss Willmotts Ghosts.md",
     "Untitled.canvas",
     "Why Women Grow.md",
-    "Cloud Data Engineering for Dummies.md",
-    "Assassins Apprentice.md",
-    "Wilding.md",
     "Untitled"
   ]
 }
