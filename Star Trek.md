@@ -55,3 +55,5 @@ Pacifism is not passivity. It is the active protection of all living things
 It is better to leave than to be the one left behind. But that's wrong. You create bonds. It's a gift. Of course, the people you care about are going to cause you pain. It will hurt. But the love it yields will far outweigh the sorrow. Hemmer #friendship #gift #love #joy-and-sorrow 
 
 Those who cloak themselves in good deeds are well camouflaged. Waiting for the right climate in which to flourish, spreading fear in the name of righteousness. Picard #good-and-evil #fear 
+
+Torres: "It may be the warriors who get the glory, but it's the engineers who build societies" #civilisation #society #engineering 
