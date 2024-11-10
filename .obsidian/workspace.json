@@ -13,10 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Light Eaters.md",
+                "file": "Piranesi.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Piranesi"
+            }
+          },
+          {
+            "id": "d49bacc25d112e26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "fd14f21d3d4732be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Royal Assassin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Royal Assassin"
             }
           },
           {
@@ -28,7 +56,9 @@
                 "file": "Star Trek.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Star Trek"
             }
           },
           {
@@ -37,10 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Minds, the octopus and the evolution of intelligent life.md",
+                "file": "Natalie Nzeyimana.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Natalie Nzeyimana"
             }
           }
         ],
@@ -64,7 +96,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +113,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other Minds, the octopus and the evolution of intelligent life.md",
+                "file": "Royal Assassin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +156,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Royal Assassin"
             }
           }
         ]
@@ -137,11 +177,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f8b61190769f0b39",
+  "active": "fd14f21d3d4732be",
   "lastOpenFiles": [
-    "Under the Skin, Love Letters to the Body.md",
+    "Royal Assassin.md",
+    "Reclaiming the Middle-earth from before the movies.md",
+    "One Acre and Security.md",
+    "Natives, Race and class in the ruins of empire.md",
     "The Light Eaters.md",
+    "Natalie Nzeyimana.md",
     "Other Minds, the octopus and the evolution of intelligent life.md",
+    "Under the Skin, Love Letters to the Body.md",
     "Star Trek.md",
     "Star Trek Picard Firewall.md",
     "Birds Beasts and Bedlam.md",
@@ -160,12 +205,7 @@
     "Feet of Clay.md",
     "A Little Book of Latin for Gardeners.md",
     "Godkiller.md",
-    "Wyrd Sisters.md",
-    "Equal Rites.md",
-    "Piranesi.md",
-    "Miss Willmotts Ghosts.md",
     "Untitled.canvas",
-    "Why Women Grow.md",
     "Untitled"
   ]
 }
