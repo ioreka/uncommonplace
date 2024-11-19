@@ -11,10 +11,14 @@
             "id": "78d389c4e606f14f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Canary Code, a guide to neurodiversity, dignity, and intersectional belonging at work.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Canary Code, a guide to neurodiversity, dignity, and intersectional belonging at work"
             }
           }
         ]
@@ -120,6 +124,7 @@
   },
   "active": "78d389c4e606f14f",
   "lastOpenFiles": [
+    "The Canary Code, a guide to neurodiversity, dignity, and intersectional belonging at work.md",
     "Philosophy in the Garden.md",
     "Piranesi.md",
     "Other Minds, the octopus and the evolution of intelligent life.md",
@@ -145,7 +150,6 @@
     "A Little Book of Latin for Gardeners.md",
     "Godkiller.md",
     "Wyrd Sisters.md",
-    "Equal Rites.md",
     "Untitled.canvas",
     "Untitled"
   ]
