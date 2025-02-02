@@ -4,42 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "e67f9e7635830aa7",
+        "id": "6159c86945269989",
         "type": "tabs",
         "children": [
           {
-            "id": "70e9bc8e29180b02",
+            "id": "78d389c4e606f14f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Piranesi.md",
+                "file": "The Canary Code, a guide to neurodiversity, dignity, and intersectional belonging at work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Piranesi"
+              "title": "The Canary Code, a guide to neurodiversity, dignity, and intersectional belonging at work"
             }
           },
           {
-            "id": "d49bacc25d112e26",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "fd14f21d3d4732be",
+            "id": "d1461c7e7712bf34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Royal Assassin.md",
+                "file": "The Power of Habit, Why we do what we do and how to change.md",
                 "mode": "source",
                 "source": false
               },
@@ -154,6 +142,8 @@
               "icon": "lucide-file",
               "title": "Natalie Nzeyimana"
             }
+              "title": "All Dogs Great and Small"
+            }
           }
         ],
         "currentTab": 8
@@ -187,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oubliette",
+                "query": "keystone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,7 +198,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Royal Assassin.md",
+                "file": "Philosophy in the Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Royal Assassin"
+              "title": "Backlinks for Philosophy in the Garden"
             }
           }
         ]
@@ -258,15 +249,32 @@
     }
   },
   "active": "3b53df9db3ec00de",
+  "active": "46ee5ec80267e1a3",
   "lastOpenFiles": [
     "Behold A Pale Horse.md",
     "The Penguin Dictionary of Troublesome Words.md",
     "The Phantom Of The Opera.md",
+    "An Absence.md",
+    "All Dogs Great and Small.md",
+    "The Power of Habit, Why we do what we do and how to change.md",
+    "Exhalation.md",
+    "Eats, shoots and leaves.md",
+    "Docs for Developers.md",
+    "Daemon Voices.md",
+    "Convolutions, writing the literary brain.md",
+    "An Extra Pair of Hands.md",
+    "Airhead, The Imperfect Art of Making News.md",
+    "Admissions, A Life In Brain Surgery.md",
+    "A Slip of the Keyboard, Collected Non-fiction.md",
+    "A History of Language.md",
+    "The Gifts of Imperfection.md",
     "The Canary Code, a guide to neurodiversity, dignity, and intersectional belonging at work.md",
+    "The Phantom Of The Opera.md",
     "The Herb Book.md",
-    "Royal Assassin.md",
-    "Reclaiming the Middle-earth from before the movies.md",
-    "One Acre and Security.md",
+    "Behold A Pale Horse.md",
+    "Practical Guide to Information Architecture.md",
+    "Write The Docs, miscellaneous.md",
+    "The Product Is Docs, Writing technical documentation in a product development group.md",
     "Natives, Race and class in the ruins of empire.md",
     "The Light Eaters.md",
     "Natalie Nzeyimana.md",
@@ -285,6 +293,10 @@
     "Maskerade.md",
     "The Magic Hour.md",
     "Forget Me Not, finding the forgotten species of climate change Britain.md",
+    "Modern Technical Writing.md",
+    "Living Documentation, continuous knowledge sharing by design.md",
+    "Individuals.md",
+    "Going Postal.md",
     "Untitled.canvas",
     "Untitled"
   ]
