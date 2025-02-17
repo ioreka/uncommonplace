@@ -4,39 +4,201 @@
     "type": "split",
     "children": [
       {
-        "id": "cf1922deb8a5a4fd",
+        "id": "e67f9e7635830aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "0189b2b38581c2bd",
+            "id": "70e9bc8e29180b02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Beauty Myth.md",
+                "file": "Piranesi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Beauty Myth"
+              "title": "Piranesi"
             }
           },
           {
-            "id": "4bfa9cefed98fe2f",
+            "id": "d49bacc25d112e26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "fd14f21d3d4732be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unmasking Autism.md",
+                "file": "Royal Assassin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unmasking Autism"
+              "title": "Royal Assassin"
+            }
+          },
+          {
+            "id": "951581d5d74cbf68",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
+            "id": "c4731bc272085a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Herb Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Herb Book"
+            }
+          },
+          {
+            "id": "f575111332101b8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "9ad86d3c768e7a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Phantom Of The Opera.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Phantom Of The Opera"
+            }
+          },
+          {
+            "id": "1edca528aaa90d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Behold A Pale Horse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Behold A Pale Horse"
+            }
+          },
+          {
+            "id": "3b53df9db3ec00de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Penguin Dictionary of Troublesome Words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Penguin Dictionary of Troublesome Words"
+            }
+          },
+          {
+            "id": "51325b7725585dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Water Vole Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Water Vole Book"
+            }
+          },
+          {
+            "id": "368631a70dd3eb73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancillary Justice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ancillary Justice"
+            }
+          },
+          {
+            "id": "ab1978a64d4b580e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Handmaid's Tale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Handmaid's Tale"
+            }
+          },
+          {
+            "id": "54957cc9c679ca2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Star Trek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Star Trek"
+            }
+          },
+          {
+            "id": "f8b61190769f0b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natalie Nzeyimana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Natalie Nzeyimana"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -67,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "troublesome",
+                "query": "oubliette",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy in the Garden.md",
+                "file": "Royal Assassin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +280,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Philosophy in the Garden"
+              "title": "Backlinks for Royal Assassin"
             }
           }
         ]
@@ -137,35 +299,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4bfa9cefed98fe2f",
+  "active": "ab1978a64d4b580e",
   "lastOpenFiles": [
-    "The Beauty Myth.md",
-    "Unmasking Autism.md",
+    "Ancillary Justice.md",
+    "The Handmaid's Tale.md",
+    "The Water Vole Book.md",
     "The Penguin Dictionary of Troublesome Words.md",
-    "Untitled.canvas",
+    "Unmasking Autism.md",
+    "The Beauty Myth.md",
     "An Absence.md",
-    "The Canary Code, a guide to neurodiversity, dignity, and intersectional belonging at work.md",
-    "The Power of Habit, Why we do what we do and how to change.md",
     "All Dogs Great and Small.md",
-    "Exhalation.md",
-    "Eats, shoots and leaves.md",
-    "Docs for Developers.md",
-    "Daemon Voices.md",
-    "Convolutions, writing the literary brain.md",
-    "An Extra Pair of Hands.md",
-    "Airhead, The Imperfect Art of Making News.md",
-    "Admissions, A Life In Brain Surgery.md",
-    "A Slip of the Keyboard, Collected Non-fiction.md",
-    "A History of Language.md",
-    "The Gifts of Imperfection.md",
-    "The Phantom Of The Opera.md",
-    "The Herb Book.md",
     "Behold A Pale Horse.md",
-    "Practical Guide to Information Architecture.md",
-    "Write The Docs, miscellaneous.md",
-    "The Product Is Docs, Writing technical documentation in a product development group.md",
+    "The Phantom Of The Opera.md",
+    "The Canary Code, a guide to neurodiversity, dignity, and intersectional belonging at work.md",
+    "The Herb Book.md",
+    "Royal Assassin.md",
+    "Reclaiming the Middle-earth from before the movies.md",
+    "One Acre and Security.md",
     "Natives, Race and class in the ruins of empire.md",
-    "Modern Technical Writing.md",
+    "The Light Eaters.md",
+    "Natalie Nzeyimana.md",
+    "Other Minds, the octopus and the evolution of intelligent life.md",
+    "Under the Skin, Love Letters to the Body.md",
+    "Star Trek.md",
+    "Star Trek Picard Firewall.md",
+    "Birds Beasts and Bedlam.md",
+    "Becoming A Magician.md",
+    "ADHD 2.0, New Science and Essential Strategies for Thriving with Distraction from Childhood through Adulthood.md",
+    "Babel.md",
+    "Untitled.canvas",
     "Untitled"
   ]
 }
