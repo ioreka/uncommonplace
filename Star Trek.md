@@ -57,3 +57,8 @@ It is better to leave than to be the one left behind. But that's wrong. You crea
 Those who cloak themselves in good deeds are well camouflaged. Waiting for the right climate in which to flourish, spreading fear in the name of righteousness. Picard #good-and-evil #fear 
 
 Torres: "It may be the warriors who get the glory, but it's the engineers who build societies" #civilisation #society #engineering 
+
+Pleroma comic: "What is death?" I asked my father when I was new. I was still understanding this galaxy and our place in it. Or rather, above it. 
+"It is the illusion of inevitability, Tandela," my father said with his kind, wizened eyes gazing into mine, so I knew he meant every word. I had made him incorporate for this conversation - it always felt more real somehow that speaking from my people's Pleroma. "It is the adolescence of physical form made manifest in the lives of those ants who can perceive no other way to live. It is, perhaps, the greatest clue the universe ever gave to the true nature of being, as those with proper knowledge need never worry about it again, but all those below must live each day in constant fear or its destined arrival."
+#life-and-death 
+

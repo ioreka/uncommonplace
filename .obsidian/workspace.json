@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bullshit Jobs.md",
+                "file": "Star Trek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bullshit Jobs"
+              "title": "Star Trek"
+            }
+          },
+          {
+            "id": "5675c7da3ac9446a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This Is Your Mind On Plants.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "This Is Your Mind On Plants"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "secret commonweal",
+                "query": "star trek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,10 +196,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "773124a29e60c207",
+  "active": "5675c7da3ac9446a",
   "lastOpenFiles": [
-    "The Secret Commonwealth.md",
+    "Star Trek.md",
+    "This Is Your Mind On Plants.md",
     "Bullshit Jobs.md",
+    "The Secret Commonwealth.md",
     "This Book Will Save Your Life.md",
     "Horus Rising.md",
     "His Dark Materials.md",
@@ -194,7 +210,6 @@
     "The Handmaid's Tale.md",
     "Assassins Quest.md",
     "Natalie Nzeyimana.md",
-    "Star Trek.md",
     "Piranesi.md",
     "Royal Assassin.md",
     "The Herb Book.md",
@@ -209,7 +224,6 @@
     "All Dogs Great and Small.md",
     "The Canary Code, a guide to neurodiversity, dignity, and intersectional belonging at work.md",
     "Reclaiming the Middle-earth from before the movies.md",
-    "One Acre and Security.md",
     "Untitled.canvas",
     "Untitled"
   ]
