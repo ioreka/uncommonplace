@@ -56,4 +56,4 @@ It did not immediately answer. Its flame flickered, as if unsettled by this ques
 #death #life-and-death #eternity 
 
 "If you have room for the saints, you must make room for the devils. He who believes in Saint Anthony is bound to believe in the devils that persecuted him - that's logical."
-#logic #good-and-evil 
+#logic #good-and-evil  
