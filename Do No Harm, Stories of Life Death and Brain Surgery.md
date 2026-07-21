@@ -25,4 +25,4 @@ It is sad how easy it is to dismiss people with damaged or disfigured faces, to 
 #masks 
 
 You might expect that seeing so much pain and suffering might help you keep your own difficulties in perspective but, alas, it does not.
-#pserspective #relativity #social-contract 
+#perspective #relativity #social-contract 
