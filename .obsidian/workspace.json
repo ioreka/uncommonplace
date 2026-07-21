@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "This Is Your Brain On Music, understanding a human obsession"
             }
+          },
+          {
+            "id": "34ea04fc137a52e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Hail Mary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Hail Mary"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,11 +254,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7aa395d720d33e61",
+  "active": "34ea04fc137a52e3",
   "lastOpenFiles": [
+    "This Is Your Brain On Music, understanding a human obsession.md",
+    "Project Hail Mary.md",
     "Do No Harm, Stories of Life Death and Brain Surgery.md",
     "The Deed of Paksenarrion.md",
-    "This Is Your Brain On Music, understanding a human obsession.md",
     "Untitled.canvas",
     "Empire of Normality,  neurodiversity and capitalism.md",
     "The Empusium.md",
@@ -269,7 +284,6 @@
     "Is It Really Green, everyday eco dilemmas answered.md",
     "How Do Worms Work?.md",
     "Forget Me Not, finding the forgotten species of climate change Britain.md",
-    "A Spotters Guide To Countryside Mysteries.md",
-    "A Slip of the Keyboard, Collected Non-fiction.md"
+    "A Spotters Guide To Countryside Mysteries.md"
   ]
 }
