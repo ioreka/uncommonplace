@@ -104,9 +104,37 @@
               "icon": "lucide-file",
               "title": "Project Hail Mary"
             }
+          },
+          {
+            "id": "c9ea8b130392381d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Warcraft, Beyond the dark portal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "World of Warcraft, Beyond the dark portal"
+            }
+          },
+          {
+            "id": "91babcb069a3a375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sunbringer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sunbringer"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -254,10 +282,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "34ea04fc137a52e3",
+  "active": "91babcb069a3a375",
   "lastOpenFiles": [
-    "This Is Your Brain On Music, understanding a human obsession.md",
+    "World of Warcraft, Beyond the dark portal.md",
+    "Sunbringer.md",
     "Project Hail Mary.md",
+    "This Is Your Brain On Music, understanding a human obsession.md",
     "Do No Harm, Stories of Life Death and Brain Surgery.md",
     "The Deed of Paksenarrion.md",
     "Untitled.canvas",
@@ -282,8 +312,6 @@
     "From Here To Eternity.md",
     "Compost.md",
     "Is It Really Green, everyday eco dilemmas answered.md",
-    "How Do Worms Work?.md",
-    "Forget Me Not, finding the forgotten species of climate change Britain.md",
-    "A Spotters Guide To Countryside Mysteries.md"
+    "How Do Worms Work?.md"
   ]
 }
