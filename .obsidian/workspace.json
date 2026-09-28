@@ -125,16 +125,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sunbringer.md",
+                "file": "This Is Your Brain On Music, understanding a human obsession.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunbringer"
+              "title": "This Is Your Brain On Music, understanding a human obsession"
+            }
+          },
+          {
+            "id": "0c86d809d743d664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extra Time, 10 Lessons For Living Longer Better.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extra Time, 10 Lessons For Living Longer Better"
+            }
+          },
+          {
+            "id": "55d96d871f0e1e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gaias Garden, a guide to home-scale permaculture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gaias Garden, a guide to home-scale permaculture"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -154,7 +182,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -166,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pserspective",
+                "query": "justice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -282,10 +312,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "91babcb069a3a375",
+  "active": "454627247224b80e",
   "lastOpenFiles": [
-    "World of Warcraft, Beyond the dark portal.md",
+    "Extra Time, 10 Lessons For Living Longer Better.md",
+    "Gaias Garden, a guide to home-scale permaculture.md",
+    "Ethical Business Practice and Regulation.md",
+    "Dune.md",
+    "Better Allies, Everyday actions to create inclusive, engaging workplaces.md",
+    "Bad Pharma.md",
+    "Algorithms to Live By the computer science of human decision.md",
+    "Admissions, A Life In Brain Surgery.md",
+    "A Slip of the Keyboard, Collected Non-fiction.md",
     "Sunbringer.md",
+    "World of Warcraft, Beyond the dark portal.md",
     "Project Hail Mary.md",
     "This Is Your Brain On Music, understanding a human obsession.md",
     "Do No Harm, Stories of Life Death and Brain Surgery.md",
@@ -303,15 +342,6 @@
     "The Science of Gardening.md",
     "The Sceptical Gardener.md",
     "Stiff, the curious lives of human cadavers.md",
-    "Skills for Growing.md",
-    "Rebel Gardening, A beginner’s handbook to organic urban gardening.md",
-    "Reaper Man.md",
-    "No Dig.md",
-    "Gardening Myths and Misconceptions.md",
-    "Garden Magic.md",
-    "From Here To Eternity.md",
-    "Compost.md",
-    "Is It Really Green, everyday eco dilemmas answered.md",
-    "How Do Worms Work?.md"
+    "Skills for Growing.md"
   ]
 }
